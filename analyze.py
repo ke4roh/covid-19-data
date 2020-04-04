@@ -33,6 +33,8 @@ fips = sorted(fips)
 week = timedelta(weeks=1)
 rates = {}
 daily_rates = {}
+first_day = None
+
 for date in dates[6:]:
     daily_rates[date] = []
     for co in fips:
@@ -40,6 +42,7 @@ for date in dates[6:]:
            today_sum = counts[(date,co)]
            weeks_growth = today_sum - counts[(date - week,co)]
            if today_sum > 5:
+               first_day = first_day or date
                rate = weeks_growth / today_sum / 7
                rates[(date,co)]=rate
                daily_rates[date].append(rate)
@@ -96,7 +99,7 @@ def renderAnim(f):
 }
 """)
 
-for date in dates:
+for date in [first_day + timedelta(days=x) for x in range(0, (dates[-1]-first_day).days)]:
     with open('Usa_counties_large.svg') as carta:
         #with open(dates[-1].strftime("%Y-%m-%d") + ".svg",'w') as cartb:
         with open(date.strftime("%Y-%m-%d") + ".svg",'w') as cartb:
