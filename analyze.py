@@ -99,7 +99,7 @@ def renderAnim(f):
 }
 """)
 
-for date in [first_day + timedelta(days=x) for x in range(0, (dates[-1]-first_day).days)]:
+for date in [first_day + timedelta(days=x) for x in range(0, (dates[-1]-first_day).days+1)]:
     with open('Usa_counties_large.svg') as carta:
         #with open(dates[-1].strftime("%Y-%m-%d") + ".svg",'w') as cartb:
         with open(date.strftime("%Y-%m-%d") + ".svg",'w') as cartb:
