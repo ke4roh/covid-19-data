@@ -8,5 +8,5 @@ This metric was highlighted as an indicator on the YouTube video "How To tell if
 
 # Resources
 * [How To Tell If Were Beating COVID-19](https://youtu.be/54XLXg4fYsc) (YouTube)
-* [NYT Coronavirus tracking](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html), CC-BY-SA-NC.
+* [The New York Times Coronavirus tracking](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html), CC-BY-SA-NC.
 * [US Counties Map](https://commons.wikimedia.org/wiki/File:Usa_counties_large.svg) PD
