@@ -8,23 +8,40 @@ dates = set()
 fips = set()
 
 def procRow(row):
-     dt = datetime.strptime(row['date'],"%Y-%m-%d").date()
-     counts[(dt,row['fips'])] = int(row['cases'])
+     dt = row['date']
+     counts[(dt,row['fips'])] = row['cases']
      dates.add(dt)
      fips.add(row['fips'])
 
 # Read in counties and case counts
+kc_rows = []
 with open('us-counties.csv', newline='') as csvfile:
      reader = csv.DictReader(csvfile)
      for row in reader:
+         row['date'] = datetime.strptime(row['date'],"%Y-%m-%d").date()
+         row['cases'] = int(row['cases'])
          if row['county'] == "New York City":
              for c,f in (("Bronx","36005"),("Kings","36047"),("New York County","36061"),("Richmond County","36085"),("Queens","36081")):
                  r2 = dict(row)
                  r2["county"]=c
                  r2["fips"]=f
                  procRow(r2)
+         elif row['county'] == "Kansas City":
+             kc_rows.append(row)
          else:
              procRow(row)
+
+# From the Covid-19 data set caveats:
+# Four counties (Cass, Clay, Jackson and Platte) overlap the municipality of Kansas City, Mo. 
+# The cases and deaths that we show for these four counties are only for the portions 
+# exclusive of Kansas City. Cases and deaths for Kansas City are reported as their own line.
+# So... assign the cases to the counties in proportion to their population.
+for row in kc_rows:
+    # Cass, Clay, Johnson, Platte
+    for f,weight in (('29037',0.101),('29047',0.233),('29101',0.571),('29165',0.095)):
+        key = (row['date'],f)
+        counts[key] = counts.get(key,0) + int(row["cases"] * weight + 0.5)
+
 
 dates = sorted(dates)
 fips = sorted(fips)
