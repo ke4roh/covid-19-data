@@ -2,6 +2,8 @@
 
 import csv
 from datetime import timedelta, datetime
+from sys import exit
+from math import log
 
 counts = {}
 dates = set()
@@ -9,7 +11,8 @@ fips = set()
 
 def procRow(row):
      dt = row['date']
-     counts[(dt,row['fips'])] = row['cases']
+     # Some counts decrease (usually just some data blip), so hold them at the higher value until it catches up... 
+     counts[(dt,row['fips'])] = max(row['cases'],counts.get((dt-timedelta(days=1),row['fips']),0))
      dates.add(dt)
      fips.add(row['fips'])
 
@@ -67,12 +70,17 @@ for date in dates[6:]:
             pass
 
 # Calculate daily quintiles
-# quintiles = {}
-# for date,drates in daily_rates.items():
-#     srates = sorted(drates)
-#     if (len(srates)>5):
-#         quintiles[date] = srates[0:len(srates):int(len(srates)/5)]
-#         print(str(quintiles[date]))
+def quintiles():
+    quintiles = {}
+    for date,drates in daily_rates.items():
+        srates = sorted(drates)
+        if (len(srates)>5):
+            quintiles[date] = srates[0:len(srates):int(len(srates)/5)] # this gives the max, too
+            print(str(quintiles[date]))
+            print(str([x/quintiles[date][-1] for x in quintiles[date]]))
+
+# quintiles()
+# exit(0)
 
 styles= """#00876c
 #439981
@@ -92,7 +100,13 @@ styles= """#00876c
 co_styles = { }
 for dc,rate in rates.items():
     (date,co) = dc
-    style = styles[min(len(styles)-1,max(0,int((rate+.14)/.14*7)))]
+    # The max rate we've seen is .92. 
+    if (rate>0.0000000001):
+        factor = log(rate)/log(50) - log(0.92)/log(50)
+    else: 
+        factor = -1000
+    bins = len(styles)
+    style = styles[min(bins-1,max(0,int((factor+bins-1))))]
     co_styles.setdefault((date,style),[] ).append(co)
     # print(",".join((date.strftime("%Y-%m-%d"),co,style)))
 
