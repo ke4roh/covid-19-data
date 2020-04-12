@@ -87,16 +87,21 @@ for date in dates[6:]:
 
 # Calculate daily quintiles
 def quintiles():
-    quintiles = {}
     for name,m in (("rate",daily_rates),("pop",daily_pops)):
         print("\n\n##################################### %s #######################################" % name)
+        overall = []
         quintiles = {}
         for date,drates in m.items():
             srates = sorted(drates)
+            overall.extend(drates)
             if (len(srates)>5):
                 quintiles[date] = srates[0:len(srates):int(len(srates)/5)] # this gives the max, too
                 print(str(quintiles[date]))
                 print(str([x/quintiles[date][-1] for x in quintiles[date]]))
+
+        overall = sorted(overall)
+        ranks=(0,.01,.03,.05,.10,.25,.50,.75,.90,.95,.97,.99,.99999)
+        print("Overall: " + " ".join(["%2.1e %d%%" %(overall[int(len(overall)*r)], int(r*100+0.5)) for r in ranks]))
 
 # quintiles()
 # exit(0)
@@ -129,23 +134,24 @@ for dc,rate in rates.items():
     if not co:
         continue
 
-    # The max rate we've seen is .92. .15 is high 
-    # This factor ranges down from 1, with 1 every factor of 100
+    # Overall: 0.0e+00 0% 1.8e-02 1% 3.3e-02 3% 4.2e-02 5% 5.4e-02 10% 7.4e-02 25% 9.6e-02 50% 1.2e-01 75% 1.3e-01 90% 1.3e-01 95% 1.3e-01 97% 1.4e-01 99% 1.4e-01 100%
     if (rate>0.0000000001):
-        rate_factor = log(rate)/log(1000) - log(0.6)/log(1000) + 1
+        rate_factor = 1 + (log(rate) - log(0.2))/log(100)
     else: 
         rate_factor = 0
-    
+   
+    # Overall: 0.0e+00 0% 2.4e-08 1% 5.2e-08 3% 7.3e-08 5% 1.2e-07 10% 2.8e-07 25% 7.3e-07 50% 1.8e-06 75% 3.7e-06 90% 5.3e-06 95% 6.5e-06 97% 1.1e-05 99% 4.3e-05 100% 
     try:
        pop_factor = 1 + (log(.1) - log(counts[dc]/county_pop[co]))/log(1e-5)
     except KeyError:
        pop_factor = .5
        print("No population for " + co)
 
+    # For hue, 0=1=red, .333 = green, .667 = blue, -.333 = purple
     style = stylize(hsv_to_rgb(
-            .5 * (1 - max(0,min(1,rate_factor))), 
+            .5 * (1 - max(0,min(1,rate_factor))) - 1/6, 
             pop_factor,
-            1
+            1 - (rate_factor*.2)
      ))
     # print("style=%s  r = %.4f  p = %.4f " % (style, rate_factor, pop_factor))
     co_styles[date].setdefault(style,[]).append(co)
