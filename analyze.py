@@ -4,7 +4,11 @@ import csv
 from datetime import timedelta, datetime
 from sys import exit
 from math import log
+from colorsys import hsv_to_rgb
+from collections import defaultdict
+from yaml import dump
 
+county_pop = {}
 counts = {}
 dates = set()
 fips = set()
@@ -15,6 +19,15 @@ def procRow(row):
      counts[(dt,row['fips'])] = max(row['cases'],counts.get((dt-timedelta(days=1),row['fips']),0))
      dates.add(dt)
      fips.add(row['fips'])
+
+# Read in counties and their population
+with open("co-est2019-alldata.csv",newline='',encoding='cp1252') as csvfile:
+    reader = csv.DictReader(csvfile)
+    for row in reader:
+        co=row["COUNTY"].zfill(3)
+        fi=row["STATE"].zfill(2) + co
+        if (co != "000"):
+            county_pop[fi]=int(row["POPESTIMATE2019"])
 
 # Read in counties and case counts
 kc_rows = []
@@ -53,10 +66,12 @@ fips = sorted(fips)
 week = timedelta(weeks=1)
 rates = {}
 daily_rates = {}
+daily_pops = {}
 first_day = None
 
 for date in dates[6:]:
     daily_rates[date] = []
+    daily_pops[date] = []
     for co in fips:
         try:
            today_sum = counts[(date,co)]
@@ -66,18 +81,22 @@ for date in dates[6:]:
                rate = weeks_growth / today_sum / 7
                rates[(date,co)]=rate
                daily_rates[date].append(rate)
+               daily_pops[date].append(rate/county_pop[co])
         except KeyError:
             pass
 
 # Calculate daily quintiles
 def quintiles():
     quintiles = {}
-    for date,drates in daily_rates.items():
-        srates = sorted(drates)
-        if (len(srates)>5):
-            quintiles[date] = srates[0:len(srates):int(len(srates)/5)] # this gives the max, too
-            print(str(quintiles[date]))
-            print(str([x/quintiles[date][-1] for x in quintiles[date]]))
+    for name,m in (("rate",daily_rates),("pop",daily_pops)):
+        print("\n\n##################################### %s #######################################" % name)
+        quintiles = {}
+        for date,drates in m.items():
+            srates = sorted(drates)
+            if (len(srates)>5):
+                quintiles[date] = srates[0:len(srates):int(len(srates)/5)] # this gives the max, too
+                print(str(quintiles[date]))
+                print(str([x/quintiles[date][-1] for x in quintiles[date]]))
 
 # quintiles()
 # exit(0)
@@ -96,25 +115,46 @@ styles= """#00876c
 #de6069
 #d43d51""".split("\n")
 
+def clamp(n):
+    return int(max(0,min(255,n)))
+
+def stylize(rgb): 
+    # print(str(rgb))
+    return "#{0:02x}{1:02x}{2:02x}".format(clamp(rgb[0]*255), clamp(rgb[1]*255), clamp(rgb[2]*255))   
+    
 # Assign styles to counties
-co_styles = { }
+co_styles = defaultdict(dict)
 for dc,rate in rates.items():
     (date,co) = dc
-    # The max rate we've seen is .92. 
+    if not co:
+        continue
+
+    # The max rate we've seen is .92. .15 is high 
+    # This factor ranges down from 1, with 1 every factor of 100
     if (rate>0.0000000001):
-        factor = log(rate)/log(50) - log(0.92)/log(50)
+        rate_factor = log(rate)/log(1000) - log(0.6)/log(1000) + 1
     else: 
-        factor = -1000
-    bins = len(styles)
-    style = styles[min(bins-1,max(0,int((factor+bins-1))))]
-    co_styles.setdefault((date,style),[] ).append(co)
+        rate_factor = 0
+    
+    try:
+       pop_factor = 1 + (log(.1) - log(counts[dc]/county_pop[co]))/log(1e-5)
+    except KeyError:
+       pop_factor = .5
+       print("No population for " + co)
+
+    style = stylize(hsv_to_rgb(
+            .5 * (1 - max(0,min(1,rate_factor))), 
+            pop_factor,
+            1
+     ))
+    # print("style=%s  r = %.4f  p = %.4f " % (style, rate_factor, pop_factor))
+    co_styles[date].setdefault(style,[]).append(co)
     # print(",".join((date.strftime("%Y-%m-%d"),co,style)))
 
 # Render styles for one date
 def renderStyles(f,date):
-    for style in styles:
-        if (date,style) in co_styles:
-            f.write("#c" +  ", #c".join(co_styles[(date,style)]) + " { fill:" + style +" }\n" )
+    for style in co_styles[date].keys():
+        f.write("#c" +  ", #c".join(co_styles[date][style]) + " { fill:" + style +" }\n" )
 
 # Render animation styles
 def renderAnim(f):
