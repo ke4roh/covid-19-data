@@ -29,6 +29,8 @@ with open("co-est2019-alldata.csv",newline='',encoding='cp1252') as csvfile:
         if (co != "000"):
             county_pop[fi]=int(row["POPESTIMATE2019"])
 
+nyc_pop = sum([county_pop[f] for f in ("36005","36047","36061","36085","36081")])
+
 # Read in counties and case counts
 kc_rows = []
 with open('us-counties.csv', newline='') as csvfile:
@@ -39,6 +41,7 @@ with open('us-counties.csv', newline='') as csvfile:
          if row['county'] == "New York City":
              for c,f in (("Bronx","36005"),("Kings","36047"),("New York County","36061"),("Richmond County","36085"),("Queens","36081")):
                  r2 = dict(row)
+                 r2["cases"]=row["cases"]*county_pop[f]/nyc_pop
                  r2["county"]=c
                  r2["fips"]=f
                  procRow(r2)
