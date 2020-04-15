@@ -10,7 +10,7 @@ Red (which is slightly darker) is bad while green is under control.
 Saturation of the color corresponds to the log of population saturation.  As more people in an area are infected,
 the color becomes more saturated.  
 
-See [The latest map](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vQkObtPMKcKDDN3uMo4tO5Jh-8HVsPCet2RL_JBc_AKoj7dNy-eKjLswaVqMaf3y2AXs1nb0AKubzqU/pubhtml#)
+See [The latest map](https://docs.google.com/spreadsheets/d/e/2PACX-1vSTIhpyzdht8F1abRa27Cxd69EVToTh4E45sCa5hXEmdhHNu8T5As-mrWkUlK8DCCJ0WAN3FhEMcFDV/pubhtml)
 
 # Resources
 * [How To Tell If Were Beating COVID-19](https://youtu.be/54XLXg4fYsc) (YouTube)
