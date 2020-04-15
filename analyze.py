@@ -3,7 +3,7 @@
 import csv
 from datetime import timedelta, datetime
 from sys import exit
-from math import log
+from math import log, exp
 from colorsys import hsv_to_rgb
 from collections import defaultdict
 from yaml import dump
@@ -41,7 +41,7 @@ with open('us-counties.csv', newline='') as csvfile:
          if row['county'] == "New York City":
              for c,f in (("Bronx","36005"),("Kings","36047"),("New York County","36061"),("Richmond County","36085"),("Queens","36081")):
                  r2 = dict(row)
-                 r2["cases"]=row["cases"]*county_pop[f]/nyc_pop
+                 r2["cases"]=int(row["cases"]*county_pop[f]/nyc_pop+0.5)
                  r2["county"]=c
                  r2["fips"]=f
                  procRow(r2)
@@ -57,9 +57,9 @@ with open('us-counties.csv', newline='') as csvfile:
 # So... assign the cases to the counties in proportion to their population.
 for row in kc_rows:
     # Cass, Clay, Johnson, Platte
-    for f,weight in (('29037',0.101),('29047',0.233),('29101',0.571),('29165',0.095)):
+    for f in ('29037','29047','29101','29165'):
         key = (row['date'],f)
-        counts[key] = counts.get(key,0) + int(row["cases"] * weight + 0.5)
+        counts[key] = counts.get(key,0) + int(row["cases"] * county_pop[f] + 0.5)
 
 
 dates = sorted(dates)
@@ -109,27 +109,21 @@ def quintiles():
 # quintiles()
 # exit(0)
 
-styles= """#00876c
-#439981
-#6aaa96
-#8cbcac
-#aecdc2
-#cfdfd9
-#f1f1f1
-#f1d4d4
-#f0b8b8
-#ec9c9d
-#e67f83
-#de6069
-#d43d51""".split("\n")
-
 def clamp(n):
     return int(max(0,min(255,n)))
 
 def stylize(rgb): 
     # print(str(rgb))
     return "#{0:02x}{1:02x}{2:02x}".format(clamp(rgb[0]*255), clamp(rgb[1]*255), clamp(rgb[2]*255))   
-    
+
+def colorize(rate_factor,pop_factor):
+    # For hue, 0=1=red, .333 = green, .667 = blue, -.333 = purple
+    return stylize(hsv_to_rgb(
+            .5 * (1 - max(0,min(1,rate_factor))) - 1/6,
+            (exp(pop_factor)-1)/(exp(1)-1),
+            1 - (rate_factor*.2)
+     ))
+
 # Assign styles to counties
 co_styles = defaultdict(dict)
 for dc,rate in rates.items():
@@ -139,7 +133,7 @@ for dc,rate in rates.items():
 
     # Overall: 0.0e+00 0% 1.8e-02 1% 3.3e-02 3% 4.2e-02 5% 5.4e-02 10% 7.4e-02 25% 9.6e-02 50% 1.2e-01 75% 1.3e-01 90% 1.3e-01 95% 1.3e-01 97% 1.4e-01 99% 1.4e-01 100%
     if (rate>0.0000000001):
-        rate_factor = 1 + (log(rate) - log(0.2))/log(100)
+        rate_factor = 1 + (log(rate) - log(0.2))/log(10)
     else: 
         rate_factor = 0
    
@@ -150,21 +144,20 @@ for dc,rate in rates.items():
        pop_factor = .5
        print("No population for " + co)
 
-    # For hue, 0=1=red, .333 = green, .667 = blue, -.333 = purple
-    style = stylize(hsv_to_rgb(
-            .5 * (1 - max(0,min(1,rate_factor))) - 1/6, 
-            pop_factor,
-            1 - (rate_factor*.2)
-     ))
-    # print("style=%s  r = %.4f  p = %.4f " % (style, rate_factor, pop_factor))
-    co_styles[date].setdefault(style,[]).append(co)
-    # print(",".join((date.strftime("%Y-%m-%d"),co,style)))
+    co_styles[date].setdefault(colorize(rate_factor,pop_factor),[]).append(co)
+
 
 # Render styles for one date
 def renderStyles(f,date):
     for style in co_styles[date].keys():
-        f.write("#c" +  ", #c".join(co_styles[date][style]) + " { fill:" + style +" }\n" )
+        f.write("#c" +  ", #c".join(co_styles[date][style]) + " { fill:" + style +"; }\n" )
 
+def renderLegendStyles(f):
+    for g in range(0,20):
+        for h in range(0,20):
+            c = colorize(g/20,h/20)
+            f.write(("#legend%02d%02d { fill: %s; stroke: %s; }\n") % (g,h,c,c))
+            
 # Render animation styles
 def renderAnim(f):
     f.write("@keyframes country_anim {\n")
@@ -187,6 +180,7 @@ for date in [first_day + timedelta(days=x) for x in range(0, (dates[-1]-first_da
                 if "</style>" in line:
                     #renderAnim(cartb)
                     renderStyles(cartb,date)
+                    renderLegendStyles(cartb)
                 elif "</tspan>" in line:
                     cartb.write(date.strftime("%Y-%m-%d"))
                 cartb.write(line)
