@@ -63,10 +63,11 @@ for row in kc_rows:
 
 
 dates = sorted(dates)
-fips = sorted(fips)
+fips = sorted(filter(lambda x: len(x)==5, fips))
 
-# Compute the daily growth rate for the past week as a percentage of the sum of cases
-week = timedelta(weeks=1)
+# Compute the daily growth rate as a percentage of the new cases in the last month
+day = timedelta(days=1)
+month = timedelta(days=30)
 rates = {}
 daily_rates = {}
 daily_pops = {}
@@ -75,18 +76,23 @@ first_day = None
 for date in dates[6:]:
     daily_rates[date] = []
     daily_pops[date] = []
+    yesterday = date - day
+    last_month = date - month
     for co in fips:
-        try:
-           today_sum = counts[(date,co)]
-           weeks_growth = today_sum - counts[(date - week,co)]
-           if today_sum > 5:
-               first_day = first_day or date
-               rate = weeks_growth / today_sum / 7
-               rates[(date,co)]=rate
-               daily_rates[date].append(rate)
-               daily_pops[date].append(rate/county_pop[co])
-        except KeyError:
-            pass
+        today_sum = counts.get((date,co),0)
+        today_growth = today_sum - counts.get((yesterday,co),0)
+        month_sum = today_sum - counts.get((last_month,co),0)
+        if today_sum > 5:
+            first_day = first_day or date
+            day_rate =  today_growth / month_sum
+            if (yesterday,co) in rates:
+               # ((1-$K$1)*K21+J22)/(2-$K$1)
+                rate = (.8 * rates[(yesterday,co)] + day_rate)/1.8
+            else:
+                rate = day_rate
+            rates[(date,co)]=rate
+            daily_rates[date].append(rate)
+            daily_pops[date].append(rate/county_pop[co])
 
 # Calculate daily quintiles
 def quintiles():
