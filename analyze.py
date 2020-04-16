@@ -72,6 +72,7 @@ rates = {}
 daily_rates = {}
 daily_pops = {}
 first_day = None
+decay_rate = .1
 
 for date in dates[6:]:
     daily_rates[date] = []
@@ -87,7 +88,7 @@ for date in dates[6:]:
             day_rate =  today_growth / month_sum
             if (yesterday,co) in rates:
                # ((1-$K$1)*K21+J22)/(2-$K$1)
-                rate = (.8 * rates[(yesterday,co)] + day_rate)/1.8
+                rate = ((1-decay_rate) * rates[(yesterday,co)] + day_rate)/(2-decay_rate)
             else:
                 rate = day_rate
             rates[(date,co)]=rate
