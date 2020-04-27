@@ -25730,5 +25730,6 @@
 <text style="font-size:10px" fill="black" x="852" y="393">35d</text>
 <text style="font-size:10px" fill="black" x="935" y="405">1 in 10k</text>
 <text style="font-size:10px" fill="black" x="935" y="480">1 in 10</text>
-<text style="font-size:30px" fill="black" x="440" y="625">US Covid-19 Doubling Rate and Penetration</text>
+<text style="font-size:30px" fill="black" x="330" y="35">US Covid-19 Doubling Rate and Penetration</text>
+<text style="font-size:16px" fill="black" x="440" y="625">Calculated from New York Times Covid-19 Data Set and census data</text>
 </svg>
