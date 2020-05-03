@@ -2,7 +2,7 @@
 
 set -e
 
-[[ $( ls 2020*.svg | wc -l ) > 0 ]] || rm 2020*.svg && rm latest.svg
+[[ $( ls 2020*.svg | wc -l ) > 0 ]] || rm 2020*.svg && rm -f latest.svg 
 
 ./analyze.py
 LAST=$(ls 2020*.svg | tail -1)

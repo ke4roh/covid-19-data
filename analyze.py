@@ -16,7 +16,7 @@ fips = set()
 def procRow(row):
      dt = row['date']
      # Some counts decrease (usually just some data blip), so hold them at the higher value until it catches up... 
-     counts[(dt,row['fips'])] = max(row['cases'],counts.get((dt-timedelta(days=1),row['fips']),0))
+     counts[(dt,row['fips'])] = row['cases']
      dates.add(dt)
      fips.add(row['fips'])
 
@@ -81,11 +81,21 @@ for date in dates[6:]:
     last_month = date - month
     for co in fips:
         today_sum = counts.get((date,co),0)
-        today_growth = today_sum - counts.get((yesterday,co),0)
-        month_sum = today_sum - counts.get((last_month,co),0)
+        today_growth = max(0,today_sum - counts.get((yesterday,co),0))
+        month_sum = max(0,today_sum - counts.get((last_month,co),0))
         if today_sum > 5:
             first_day = first_day or date
-            day_rate =  today_growth / month_sum
+            try:
+                day_rate = today_growth / month_sum
+            except ZeroDivisionError:
+                if not today_growth:
+                    # No groth today means it didn't change.  Woot!
+                    day_rate = 0
+                else:
+                    # There was change for today, so it is probably worst-case.
+                    day_rate = .14
+                    print("Div by 0 for fips %s, today=%d, yesterday=%d, last month=%d" % (co,today_sum,counts.get((yesterday,co),0),counts.get((last_month,co),0)))
+
             if (yesterday,co) in rates:
                # ((1-$K$1)*K21+J22)/(2-$K$1)
                 rate = ((1-decay_rate) * rates[(yesterday,co)] + day_rate)/(2-decay_rate)

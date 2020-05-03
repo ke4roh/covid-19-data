@@ -12,6 +12,9 @@ Red (which is slightly darker) is bad while green is under control.
 Saturation of the color corresponds to the log of population saturation.  As more people in an area are infected,
 the color becomes more saturated.  
 
+There are a few places in the NYT data set where the cumulative number of cases decreases because
+of some data error.  This is treated as a 0 growth for the day of the decrease.
+
 ![The latest map](latest.svg "A map of the United States by county showing the latest data for Covid-19 spread.  The spreadsheet gives similar information by state on the tab labeled By State.")
 
 See [The animated map and accompanying spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSTIhpyzdht8F1abRa27Cxd69EVToTh4E45sCa5hXEmdhHNu8T5As-mrWkUlK8DCCJ0WAN3FhEMcFDV/pubhtml)
