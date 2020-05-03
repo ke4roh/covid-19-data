@@ -3,14 +3,18 @@
 This set of scripts, in conjunction with the New York Times Covid-19 data and a map from Wikimedia Commons 
 presents an animation of the trend of Covid-19 as it has worked its way through the United States.
 
+For a county to be colored on this map, it must have at least 5 confirmed cases.
+
 The hue displayed is the log of the running average of new cases as a proportion of new cases for the 
 preceding month.  A similar metric was highlighted as an indicator on the YouTube video "How To 
 tell if We're Beating COVID-19" (see below).
 
-Red (which is slightly darker) is bad while green is under control. 
+Purple is the worst rate at .14% increase daily; green is under control.  The worse colors are also a little darker to help with colorblindness.
 
 Saturation of the color corresponds to the log of population saturation.  As more people in an area are infected,
 the color becomes more saturated.  
+
+Dark green indicates no new cases in the past 30 days when there previously were at least 5 cases.
 
 There are a few places in the NYT data set where the cumulative number of cases decreases because
 of some data error.  This is treated as a 0 growth for the day of the decrease.

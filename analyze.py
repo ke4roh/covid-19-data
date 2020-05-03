@@ -71,6 +71,7 @@ month = timedelta(days=30)
 rates = {}
 daily_rates = {}
 daily_pops = {}
+eliminated = {}
 first_day = None
 decay_rate = .1
 
@@ -89,8 +90,9 @@ for date in dates[6:]:
                 day_rate = today_growth / month_sum
             except ZeroDivisionError:
                 if not today_growth:
-                    # No groth today means it didn't change.  Woot!
+                    # No groth today means it didn't change.  Eliminated!
                     day_rate = 0
+                    eliminated[(date,co)] = True
                 else:
                     # There was change for today, so it is probably worst-case.
                     day_rate = .14
@@ -131,15 +133,18 @@ def clamp(n):
 
 def stylize(rgb): 
     # print(str(rgb))
-    return "#{0:02x}{1:02x}{2:02x}".format(clamp(rgb[0]*255), clamp(rgb[1]*255), clamp(rgb[2]*255))   
+    return "#{0:02x}{1:02x}{2:02x}".format(clamp(rgb[0]*256), clamp(rgb[1]*256), clamp(rgb[2]*256))   
 
-def colorize(rate_factor,pop_factor):
+def colorize(rate_factor,pop_factor,elim):
     # For hue, 0=1=red, .333 = green, .667 = blue, -.333 = purple
-    return stylize(hsv_to_rgb(
-            .5 * (1 - max(0,min(1,rate_factor))) - 1/6,
-            (exp(pop_factor)-1)/(exp(1)-1),
-            1 - (rate_factor*.2)
-     ))
+    if elim:
+        return stylize((0,153/256,51/256))
+    else:
+        return stylize(hsv_to_rgb(
+                .5 * (1 - max(0,min(1,rate_factor))) - 1/6,
+                (exp(pop_factor)-1)/(exp(1)-1),
+                1 - (rate_factor*.2)
+         ))
 
 # Assign styles to counties
 co_styles = defaultdict(dict)
@@ -161,7 +166,7 @@ for dc,rate in rates.items():
        pop_factor = .5
        print("No population for " + co)
 
-    co_styles[date].setdefault(colorize(rate_factor,pop_factor),[]).append(co)
+    co_styles[date].setdefault(colorize(rate_factor,pop_factor,dc in eliminated),[]).append(co)
 
 
 # Render styles for one date
@@ -172,7 +177,7 @@ def renderStyles(f,date):
 def renderLegendStyles(f):
     for g in range(0,20):
         for h in range(0,20):
-            c = colorize(g/20,h/20)
+            c = colorize(g/20,h/20,False)
             f.write(("#legend%02d%02d { fill: %s; stroke: %s; }\n") % (g,h,c,c))
             
 # Render animation styles
