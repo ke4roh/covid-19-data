@@ -1,0 +1,2209 @@
+date,county,state,fips,cases_yday,cases_today,deaths_yday,deaths_today
+2020-03-25,Summit,Colorado,08117,10,9,0,0
+2020-03-25,Unknown,Colorado,,18,18,2,0
+2020-03-25,Unknown,Hawaii,,20,5,0,0
+2020-03-25,Unknown,Missouri,,72,4,0,0
+2020-03-25,Geauga,Ohio,39055,5,4,0,0
+2020-03-25,Unknown,Rhode Island,,124,106,0,0
+2020-03-25,Lexington,South Carolina,45063,19,18,1,1
+2020-03-25,Unknown,Vermont,,23,23,5,0
+2020-03-25,Rockingham,Virginia,51165,3,2,0,0
+2020-03-25,Benton,Washington,53005,12,10,2,2
+2020-03-25,Grant,Washington,53025,27,26,0,0
+2020-03-25,Chippewa,Wisconsin,55017,2,1,0,0
+2020-03-26,Manatee,Florida,12081,26,25,1,1
+2020-03-26,Baker,Georgia,13007,3,1,1,1
+2020-03-26,Bannock,Idaho,16005,3,2,0,0
+2020-03-26,Pottawattamie,Iowa,19155,4,3,0,0
+2020-03-26,Newaygo,Michigan,26123,2,1,0,0
+2020-03-26,Unknown,Nevada,,90,107,4,0
+2020-03-26,Wayne,North Carolina,37191,2,1,0,0
+2020-03-26,Houston,Tennessee,47083,3,2,0,0
+2020-03-26,Weber,Utah,49057,10,8,0,0
+2020-03-26,Ohio,West Virginia,54069,2,1,0,0
+2020-03-26,Preston,West Virginia,54077,2,1,0,0
+2020-03-26,Fond du Lac,Wisconsin,55039,18,17,1,1
+2020-03-27,Dawson,Georgia,13085,3,2,0,0
+2020-03-27,Greene,Georgia,13133,2,1,0,0
+2020-03-27,Laurens,Georgia,13175,8,7,0,0
+2020-03-27,Unknown,Georgia,,178,217,23,5
+2020-03-27,Ascension,Louisiana,22005,91,90,1,1
+2020-03-27,Morehouse,Louisiana,22067,3,2,0,0
+2020-03-27,Adams,Mississippi,28001,3,2,0,0
+2020-03-27,Unknown,Missouri,,10,4,0,0
+2020-03-27,Unknown,Nevada,,107,91,0,0
+2020-03-27,Terry,Texas,48445,3,1,0,0
+2020-03-27,Walker,Texas,48471,3,2,0,0
+2020-03-27,Monongalia,West Virginia,54061,24,23,0,0
+2020-03-28,Graham,Arizona,04009,4,2,0,0
+2020-03-28,Hot Spring,Arkansas,05059,2,1,0,0
+2020-03-28,Lawrence,Arkansas,05075,3,1,0,0
+2020-03-28,Delta,Colorado,08029,2,1,0,0
+2020-03-28,Kit Carson,Colorado,08063,2,1,0,0
+2020-03-28,Troup,Georgia,13285,11,9,1,1
+2020-03-28,Unknown,Georgia,,217,229,5,2
+2020-03-28,Canyon,Idaho,16027,23,22,1,1
+2020-03-28,Lawrence,Indiana,18093,5,4,0,0
+2020-03-28,Marshall,Indiana,18099,4,3,0,0
+2020-03-28,Rush,Indiana,18139,3,2,0,0
+2020-03-28,Black Hawk,Iowa,19013,7,6,0,0
+2020-03-28,Franklin,Kentucky,21073,3,2,0,0
+2020-03-28,Jackson,Louisiana,22049,3,2,0,0
+2020-03-28,Lincoln,Louisiana,22061,7,6,0,0
+2020-03-28,Unknown,Louisiana,,16,12,1,2
+2020-03-28,Unknown,Minnesota,,1,1,1,0
+2020-03-28,Ashland,Ohio,39005,3,2,0,0
+2020-03-28,Seneca,Ohio,39147,2,1,0,0
+2020-03-28,Bradley,Tennessee,47011,6,5,0,0
+2020-03-28,Unknown,Tennessee,,172,161,4,4
+2020-03-28,Angelina,Texas,48005,2,1,0,0
+2020-03-28,Snohomish,Washington,53061,913,912,23,23
+2020-03-29,Lauderdale,Alabama,01077,13,12,1,1
+2020-03-29,Yavapai,Arizona,04025,13,12,0,0
+2020-03-29,Leon,Florida,12073,17,16,0,0
+2020-03-29,Barrow,Georgia,13013,7,6,1,1
+2020-03-29,Fulton,Georgia,13121,378,425,13,12
+2020-03-29,Unknown,Georgia,,229,228,2,2
+2020-03-29,Hendricks,Indiana,18063,36,48,2,1
+2020-03-29,Unknown,Louisiana,,12,12,2,1
+2020-03-29,Vermilion,Louisiana,22113,3,2,1,1
+2020-03-29,Ingham,Michigan,26065,32,43,1,0
+2020-03-29,Rio Arriba,New Mexico,35039,3,2,0,0
+2020-03-29,Unknown,Rhode Island,,168,106,2,3
+2020-03-29,Cannon,Tennessee,47015,3,2,0,0
+2020-03-29,Hood,Texas,48221,3,2,0,0
+2020-03-29,Lavaca,Texas,48285,3,1,0,0
+2020-03-29,Unknown,Utah,,17,1,1,1
+2020-03-30,Marengo,Alabama,01091,5,4,0,0
+2020-03-30,Marion,Alabama,01093,10,9,0,0
+2020-03-30,Washington,Alabama,01129,4,3,0,0
+2020-03-30,Pike,Arkansas,05109,3,2,0,0
+2020-03-30,Arapahoe,Colorado,08005,241,308,3,0
+2020-03-30,Morgan,Colorado,08087,5,4,0,0
+2020-03-30,Unknown,Colorado,,186,160,0,0
+2020-03-30,Clay,Florida,12019,35,34,4,5
+2020-03-30,Nassau,Florida,12089,8,7,0,0
+2020-03-30,Unknown,Georgia,,228,114,2,2
+2020-03-30,Whitfield,Georgia,13313,8,8,2,1
+2020-03-30,Unknown,Hawaii,,10,8,0,0
+2020-03-30,Franklin,Illinois,17055,2,1,0,0
+2020-03-30,Unknown,Kentucky,,61,59,0,0
+2020-03-30,Calvert,Maryland,24009,14,12,0,0
+2020-03-30,Bates,Missouri,29013,2,1,0,0
+2020-03-30,Greene,Missouri,29077,41,38,3,3
+2020-03-30,Kansas City,Missouri,,102,100,0,0
+2020-03-30,Moniteau,Missouri,29135,4,2,0,0
+2020-03-30,Montgomery,Missouri,29139,3,2,0,0
+2020-03-30,St. Francois,Missouri,29187,4,3,0,0
+2020-03-30,Unknown,Nevada,,269,150,0,0
+2020-03-30,Unknown,New Jersey,,3020,3840,21,7
+2020-03-30,Clark,Ohio,39023,7,6,0,0
+2020-03-30,Fairfield,Ohio,39045,14,13,0,0
+2020-03-30,Abbeville,South Carolina,45001,4,3,0,0
+2020-03-30,Franklin,Tennessee,47051,6,5,0,0
+2020-03-30,Houston,Tennessee,47083,2,1,0,0
+2020-03-30,Unknown,Tennessee,,190,101,4,9
+2020-03-30,Weber,Utah,49057,37,36,0,0
+2020-03-30,Grant,Washington,53025,58,62,1,0
+2020-03-30,Raleigh,West Virginia,54081,4,3,0,0
+2020-03-31,Elmore,Alabama,01051,13,12,0,0
+2020-03-31,Houston,Alabama,01069,9,8,0,0
+2020-03-31,Marshall,Alabama,01095,7,6,0,0
+2020-03-31,Shelby,Alabama,01117,88,86,0,2
+2020-03-31,Apache,Arizona,04001,17,16,0,0
+2020-03-31,Pinal,Arizona,04021,64,62,0,0
+2020-03-31,Van Buren,Arkansas,05141,20,19,1,1
+2020-03-31,Park,Colorado,08093,4,3,0,0
+2020-03-31,Teller,Colorado,08119,8,7,1,1
+2020-03-31,Unknown,Colorado,,160,129,0,0
+2020-03-31,Unknown,Connecticut,,176,77,0,2
+2020-03-31,DeSoto,Florida,12027,7,7,2,1
+2020-03-31,Appling,Georgia,13001,2,1,0,0
+2020-03-31,Early,Georgia,13099,20,32,2,1
+2020-03-31,Harris,Georgia,13145,4,3,0,0
+2020-03-31,Miller,Georgia,13201,5,4,0,0
+2020-03-31,Seminole,Georgia,13253,7,6,0,0
+2020-03-31,Christian,Illinois,17021,19,14,0,0
+2020-03-31,LaSalle,Illinois,17099,5,6,2,1
+2020-03-31,St. Clair,Illinois,17163,36,43,3,2
+2020-03-31,Hancock,Indiana,18059,28,26,1,2
+2020-03-31,Henry,Indiana,18065,2,1,0,0
+2020-03-31,Unknown,Kentucky,,59,9,0,0
+2020-03-31,Unknown,Maine,,5,6,1,0
+2020-03-31,Talbot,Maryland,24041,4,3,0,0
+2020-03-31,Unknown,Massachusetts,,491,335,0,0
+2020-03-31,Gladwin,Michigan,26051,3,2,0,0
+2020-03-31,Ogemaw,Michigan,26129,4,1,0,0
+2020-03-31,Quitman,Mississippi,28119,4,3,0,0
+2020-03-31,Cedar,Missouri,29039,5,3,0,0
+2020-03-31,Christian,Missouri,29043,12,11,0,0
+2020-03-31,Cole,Missouri,29051,25,23,0,0
+2020-03-31,Dunklin,Missouri,29069,6,5,0,0
+2020-03-31,Unknown,Missouri,,12,1,0,0
+2020-03-31,Unknown,Nevada,,150,103,0,0
+2020-03-31,Unknown,New Jersey,,3840,3683,7,7
+2020-03-31,Erie,New York,36029,443,438,8,8
+2020-03-31,Davie,North Carolina,37059,12,11,0,0
+2020-03-31,Grady,Oklahoma,40051,3,2,0,0
+2020-03-31,Deschutes,Oregon,41017,25,24,0,0
+2020-03-31,Harris,Texas,48201,563,680,7,6
+2020-03-31,Summit,Utah,49043,176,172,0,0
+2020-04-01,Orange,Florida,12095,373,458,4,3
+2020-04-02,Bullock,Alabama,01011,3,2,0,0
+2020-04-02,Anchorage,Alaska,02020,67,66,2,2
+2020-04-02,Arkansas,Arkansas,05001,2,1,0,0
+2020-04-02,Cleveland,Arkansas,05025,5,4,0,0
+2020-04-02,Unknown,Arkansas,,61,10,5,1
+2020-04-02,Unknown,California,,1,0,0,1
+2020-04-02,Unknown,Connecticut,,185,174,2,1
+2020-04-02,Coffee,Georgia,13069,11,9,0,0
+2020-04-02,Hart,Georgia,13147,4,3,0,0
+2020-04-02,Macon,Georgia,13193,3,2,0,0
+2020-04-02,Randolph,Georgia,13243,5,4,0,0
+2020-04-02,Unknown,Illinois,,58,28,0,0
+2020-04-02,Des Moines,Iowa,19057,2,1,0,0
+2020-04-02,Keokuk,Iowa,19107,2,1,0,0
+2020-04-02,Mitchell,Kansas,20123,3,2,0,0
+2020-04-02,Stevens,Kansas,20189,2,1,0,0
+2020-04-02,Avoyelles,Louisiana,22009,31,34,2,1
+2020-04-02,Plaquemines,Louisiana,22075,47,68,4,3
+2020-04-02,Rapides,Louisiana,22079,69,77,4,3
+2020-04-02,Tangipahoa,Louisiana,22105,33,42,2,1
+2020-04-02,Unknown,Louisiana,,28,38,4,1
+2020-04-02,Unknown,Massachusetts,,335,270,0,0
+2020-04-02,Emmet,Michigan,26047,7,6,1,1
+2020-04-02,Ionia,Michigan,26067,6,5,0,0
+2020-04-02,Unknown,Michigan,,161,182,2,0
+2020-04-02,Rice,Minnesota,27131,4,3,0,0
+2020-04-02,Chickasaw,Mississippi,28017,15,14,0,1
+2020-04-02,Clarke,Mississippi,28023,5,4,0,0
+2020-04-02,Forrest,Mississippi,28035,27,26,0,0
+2020-04-02,Holmes,Mississippi,28051,16,16,2,1
+2020-04-02,Itawamba,Mississippi,28057,4,3,0,0
+2020-04-02,Lee,Mississippi,28081,25,24,1,1
+2020-04-02,Lowndes,Mississippi,28087,11,10,0,0
+2020-04-02,Marion,Mississippi,28091,6,5,0,0
+2020-04-02,Neshoba,Mississippi,28099,5,4,0,0
+2020-04-02,Lewis and Clark,Montana,30049,14,13,0,0
+2020-04-02,Unknown,Nebraska,,3,1,0,0
+2020-04-02,Unknown,New Jersey,,4512,4866,7,4
+2020-04-02,Unknown,Rhode Island,,179,105,8,9
+2020-04-02,Unknown,Tennessee,,442,103,17,0
+2020-04-02,Unknown,Utah,,19,16,3,4
+2020-04-02,Bennington,Vermont,50003,18,17,0,0
+2020-04-02,Unknown,Vermont,,23,8,9,10
+2020-04-02,Powhatan,Virginia,51145,4,3,0,0
+2020-04-02,Cowlitz,Washington,53015,18,16,0,0
+2020-04-02,Kitsap,Washington,53035,74,85,1,0
+2020-04-02,Hancock,West Virginia,54029,6,5,0,0
+2020-04-02,Ohio,West Virginia,54069,11,10,0,0
+2020-04-02,Douglas,Wisconsin,55031,7,6,0,0
+2020-04-03,Apache,Arizona,04001,19,17,0,0
+2020-04-03,Benton,Arkansas,05007,42,41,0,0
+2020-04-03,Inyo,California,06027,10,10,1,0
+2020-04-03,Middlesex,Connecticut,09007,74,91,3,2
+2020-04-03,Unknown,Georgia,,665,264,4,4
+2020-04-03,Washington,Georgia,13303,6,5,0,0
+2020-04-03,Unknown,Hawaii,,20,11,0,1
+2020-04-03,Vigo,Indiana,18167,10,9,2,2
+2020-04-03,Lafourche,Louisiana,22057,158,185,4,3
+2020-04-03,Unknown,Massachusetts,,270,213,0,0
+2020-04-03,Carter,Missouri,29035,4,3,0,0
+2020-04-03,Macon,Missouri,29121,3,2,0,0
+2020-04-03,Kearney,Nebraska,31099,2,1,0,0
+2020-04-03,Unknown,New Jersey,,4866,4805,4,4
+2020-04-03,Douglas,Oregon,41019,10,9,0,0
+2020-04-03,Unknown,Rhode Island,,105,159,9,7
+2020-04-03,Unknown,Tennessee,,103,54,0,0
+2020-04-03,Washington,Tennessee,47179,21,20,0,0
+2020-04-03,Kleberg,Texas,48273,2,1,0,0
+2020-04-03,Unknown,Utah,,16,0,4,3
+2020-04-03,Unknown,Vermont,,8,6,10,10
+2020-04-03,Accomack,Virginia,51001,10,8,0,0
+2020-04-03,Goochland,Virginia,51075,9,8,0,0
+2020-04-03,Madison,Virginia,51113,3,2,0,0
+2020-04-04,Sumter,Alabama,01119,7,6,0,0
+2020-04-04,Unknown,Arizona,,0,0,4,2
+2020-04-04,Benton,Arkansas,05007,41,40,0,0
+2020-04-04,Lonoke,Arkansas,05085,16,15,0,0
+2020-04-04,Unknown,Arkansas,,13,12,1,1
+2020-04-04,Miller,Georgia,13201,11,10,0,0
+2020-04-04,Unknown,Georgia,,264,88,4,4
+2020-04-04,Unknown,Hawaii,,11,8,1,1
+2020-04-04,Valley,Idaho,16085,3,2,0,0
+2020-04-04,Unknown,Illinois,,40,16,0,0
+2020-04-04,Acadia,Louisiana,22001,72,65,1,2
+2020-04-04,Avoyelles,Louisiana,22009,37,36,1,1
+2020-04-04,Concordia,Louisiana,22029,10,5,1,1
+2020-04-04,Iberia,Louisiana,22045,78,68,3,3
+2020-04-04,Jackson,Louisiana,22049,4,1,0,0
+2020-04-04,Jefferson Davis,Louisiana,22053,14,9,0,0
+2020-04-04,Lafayette,Louisiana,22055,276,229,2,4
+2020-04-04,St. Landry,Louisiana,22097,68,45,2,2
+2020-04-04,St. Martin,Louisiana,22099,69,64,3,5
+2020-04-04,Unknown,Louisiana,,40,31,4,0
+2020-04-04,Vermilion,Louisiana,22113,18,15,1,1
+2020-04-04,St. Joseph,Michigan,26149,10,9,0,0
+2020-04-04,Carver,Minnesota,27019,11,10,0,0
+2020-04-04,Lawrence,Mississippi,28077,5,4,0,0
+2020-04-04,Camden,Missouri,29029,21,20,1,1
+2020-04-04,Clinton,Missouri,29049,8,7,0,0
+2020-04-04,Unknown,New Jersey,,4805,3935,4,11
+2020-04-04,Chautauqua,New York,36013,10,12,1,0
+2020-04-04,Unknown,New York,,37,0,608,309
+2020-04-04,Trumbull,Ohio,39155,72,90,7,6
+2020-04-04,Unknown,Rhode Island,,159,122,7,10
+2020-04-04,Williamson,Tennessee,47187,221,239,3,2
+2020-04-04,Morgan,Utah,49029,7,5,0,0
+2020-04-04,Waynesboro city,Virginia,51820,3,2,0,0
+2020-04-05,Graham,Arizona,04009,3,2,0,0
+2020-04-05,Yuma,Arizona,04027,14,13,0,0
+2020-04-05,Bradley,Arkansas,05011,4,1,0,0
+2020-04-05,Unknown,Connecticut,,241,222,1,1
+2020-04-05,Unknown,Florida,,10,4,0,0
+2020-04-05,Gwinnett,Georgia,13135,400,410,8,7
+2020-04-05,Jasper,Georgia,13159,4,3,0,0
+2020-04-05,Pulaski,Georgia,13235,7,6,0,0
+2020-04-05,Wilcox,Georgia,13315,2,1,0,0
+2020-04-05,Huntington,Indiana,18069,5,4,1,1
+2020-04-05,Jasper,Indiana,18073,15,12,1,1
+2020-04-05,Miami,Indiana,18103,8,7,0,0
+2020-04-05,Pottawattamie,Iowa,19155,8,7,0,0
+2020-04-05,Coffey,Kansas,20031,23,24,1,0
+2020-04-05,Ford,Kansas,20057,2,1,0,0
+2020-04-05,Barren,Kentucky,21009,2,1,0,0
+2020-04-05,Bourbon,Kentucky,21017,6,4,1,1
+2020-04-05,Breathitt,Kentucky,21025,3,2,0,0
+2020-04-05,Fayette,Kentucky,21067,125,153,9,6
+2020-04-05,Madison,Kentucky,21151,12,11,0,1
+2020-04-05,Menifee,Kentucky,21165,4,3,0,0
+2020-04-05,Spencer,Kentucky,21215,4,2,0,0
+2020-04-05,Unknown,Kentucky,,77,9,3,7
+2020-04-05,Grant,Louisiana,22043,9,8,0,0
+2020-04-05,Natchitoches,Louisiana,22069,15,14,0,0
+2020-04-05,St. Martin,Louisiana,22099,64,77,5,4
+2020-04-05,Vernon,Louisiana,22115,11,10,0,0
+2020-04-05,Unknown,Maine,,12,11,0,0
+2020-04-05,Unknown,Massachusetts,,274,215,0,0
+2020-04-05,Clare,Michigan,26035,2,1,0,0
+2020-04-05,Gratiot,Michigan,26057,5,4,0,0
+2020-04-05,Houghton,Michigan,26061,2,1,0,0
+2020-04-05,Unknown,Michigan,,333,306,1,0
+2020-04-05,Unknown,Minnesota,,2,0,3,4
+2020-04-05,Greene,Missouri,29077,62,61,7,7
+2020-04-05,Unknown,New Jersey,,3935,3821,11,11
+2020-04-05,Trumbull,Ohio,39155,90,89,6,7
+2020-04-05,Garvin,Oklahoma,40049,11,9,0,0
+2020-04-05,Hood River,Oregon,41027,3,2,0,0
+2020-04-05,Lycoming,Pennsylvania,42081,10,9,0,0
+2020-04-05,Colleton,South Carolina,45029,9,8,0,0
+2020-04-05,Dorchester,South Carolina,45035,45,44,0,0
+2020-04-05,Newberry,South Carolina,45071,8,7,0,0
+2020-04-05,Bastrop,Texas,48021,10,9,0,0
+2020-04-05,Colorado,Texas,48089,4,2,0,0
+2020-04-05,Weber,Utah,49057,63,53,1,1
+2020-04-05,Windsor,Vermont,50027,24,22,1,1
+2020-04-05,Campbell,Wyoming,56005,7,6,0,0
+2020-04-06,Pulaski,Arkansas,05119,161,171,6,5
+2020-04-06,Unknown,Arkansas,,14,11,1,0
+2020-04-06,Madera,California,06039,30,28,2,2
+2020-04-06,Denver,Colorado,08031,825,847,16,15
+2020-04-06,Unknown,Connecticut,,222,264,1,0
+2020-04-06,Banks,Georgia,13011,3,2,0,0
+2020-04-06,Decatur,Georgia,13087,17,13,0,0
+2020-04-06,Franklin,Georgia,13119,5,3,0,0
+2020-04-06,Liberty,Georgia,13179,13,12,0,0
+2020-04-06,Unknown,Hawaii,,10,9,1,0
+2020-04-06,Kankakee,Illinois,17091,76,90,6,5
+2020-04-06,Montgomery,Illinois,17135,3,2,1,0
+2020-04-06,Peoria,Illinois,17143,14,12,2,1
+2020-04-06,Noble,Indiana,18113,11,10,1,1
+2020-04-06,Scott,Indiana,18143,8,7,1,1
+2020-04-06,Washington,Iowa,19183,49,52,3,2
+2020-04-06,Unknown,Kentucky,,9,0,7,7
+2020-04-06,Terrebonne,Louisiana,22109,148,182,8,7
+2020-04-06,Unknown,Louisiana,,31,48,4,3
+2020-04-06,Calhoun,Michigan,26025,42,41,1,1
+2020-04-06,Chippewa,Michigan,26033,2,1,0,0
+2020-04-06,Ingham,Michigan,26065,172,178,2,1
+2020-04-06,Osceola,Michigan,26133,4,3,0,0
+2020-04-06,Hancock,Mississippi,28045,31,30,1,1
+2020-04-06,Toole,Montana,30101,16,15,3,3
+2020-04-06,Unknown,Nevada,,52,32,0,12
+2020-04-06,Unknown,New Jersey,,3821,3521,11,14
+2020-04-06,Orange,New York,36071,3102,3397,51,47
+2020-04-06,Pickaway,Ohio,39129,29,27,0,0
+2020-04-06,Yamhill,Oregon,41071,26,25,3,3
+2020-04-06,Mifflin,Pennsylvania,42087,9,5,0,0
+2020-04-06,Montour,Pennsylvania,42093,37,33,0,0
+2020-04-06,Unknown,Tennessee,,81,69,0,2
+2020-04-06,Charlottesville city,Virginia,51540,23,22,0,0
+2020-04-06,Rockingham,Virginia,51165,16,15,0,0
+2020-04-06,Unknown,Virginia,,18,0,17,18
+2020-04-06,Franklin,Washington,53021,59,64,2,1
+2020-04-06,Ohio,West Virginia,54069,18,15,0,0
+2020-04-06,Preston,West Virginia,54077,5,4,0,0
+2020-04-07,Limestone,Alabama,01083,33,32,0,0
+2020-04-07,St. Clair,Alabama,01115,31,30,0,0
+2020-04-07,Imperial,California,06025,68,73,3,2
+2020-04-07,Unknown,Colorado,,276,249,0,0
+2020-04-07,Unknown,Florida,,5,2,0,0
+2020-04-07,Lowndes,Georgia,13185,42,45,2,1
+2020-04-07,Miller,Georgia,13201,15,11,0,0
+2020-04-07,Unknown,Hawaii,,9,7,0,0
+2020-04-07,Kootenai,Idaho,16055,43,42,0,0
+2020-04-07,Crawford,Illinois,17033,5,4,0,0
+2020-04-07,De Witt,Illinois,17039,3,2,0,0
+2020-04-07,Jasper,Illinois,17079,4,3,0,0
+2020-04-07,Sangamon,Illinois,17167,35,32,2,2
+2020-04-07,Unknown,Illinois,,62,34,0,0
+2020-04-07,Allamakee,Iowa,19005,18,17,1,1
+2020-04-07,Unknown,Louisiana,,48,49,3,2
+2020-04-07,Webster,Louisiana,22119,51,50,2,2
+2020-04-07,Unknown,Maine,,11,9,0,0
+2020-04-07,Unknown,Massachusetts,,246,229,2,3
+2020-04-07,Unknown,Michigan,,367,405,1,0
+2020-04-07,Tunica,Mississippi,28143,18,17,1,1
+2020-04-07,Cass,Missouri,29037,26,25,1,1
+2020-04-07,Unknown,New Jersey,,3521,2220,14,5
+2020-04-07,Cattaraugus,New York,36009,15,13,0,0
+2020-04-07,Greene,New York,36039,27,24,0,0
+2020-04-07,Clermont,Ohio,39025,27,22,1,1
+2020-04-07,Lawrence,Ohio,39087,10,9,0,0
+2020-04-07,Lorain,Ohio,39093,117,116,3,3
+2020-04-07,Craig,Oklahoma,40035,5,4,0,0
+2020-04-07,Crawford,Pennsylvania,42039,9,8,0,0
+2020-04-07,Montour,Pennsylvania,42093,33,27,0,0
+2020-04-07,Unknown,Rhode Island,,332,223,20,13
+2020-04-07,Abbeville,South Carolina,45001,6,5,0,0
+2020-04-07,Dorchester,South Carolina,45035,52,51,0,0
+2020-04-07,Yankton,South Dakota,46135,18,15,0,0
+2020-04-07,Sequatchie,Tennessee,47153,2,1,0,0
+2020-04-07,Millard,Utah,49027,4,2,0,0
+2020-04-07,Unknown,Utah,,23,0,9,9
+2020-04-07,Unknown,Vermont,,21,3,16,16
+2020-04-07,Shenandoah,Virginia,51171,13,12,0,0
+2020-04-07,Waynesboro city,Virginia,51820,3,2,0,0
+2020-04-07,Unknown,Washington,,653,601,0,0
+2020-04-07,Monroe,Wisconsin,55081,7,5,0,0
+2020-04-08,Yuma,Arizona,04027,15,14,0,0
+2020-04-08,Baxter,Arkansas,05005,5,4,0,0
+2020-04-08,Boone,Arkansas,05009,4,3,0,0
+2020-04-08,Saline,Arkansas,05125,33,30,1,1
+2020-04-08,Moffat,Colorado,08081,4,3,0,0
+2020-04-08,Unknown,Colorado,,249,238,0,0
+2020-04-08,Baker,Georgia,13007,10,9,2,2
+2020-04-08,Bryan,Georgia,13029,26,25,2,2
+2020-04-08,Fannin,Georgia,13111,10,9,0,0
+2020-04-08,Forsyth,Georgia,13117,99,98,1,2
+2020-04-08,Haralson,Georgia,13143,17,15,0,0
+2020-04-08,Heard,Georgia,13149,3,2,1,0
+2020-04-08,Jasper,Georgia,13159,6,5,0,0
+2020-04-08,Lee,Georgia,13177,204,210,15,14
+2020-04-08,McDuffie,Georgia,13189,16,17,2,1
+2020-04-08,Meriwether,Georgia,13199,20,18,0,0
+2020-04-08,Miller,Georgia,13201,11,9,0,0
+2020-04-08,Monroe,Georgia,13207,13,12,1,1
+2020-04-08,Peach,Georgia,13225,20,19,2,2
+2020-04-08,Randolph,Georgia,13243,83,87,4,3
+2020-04-08,Rockdale,Georgia,13247,86,85,2,2
+2020-04-08,Sumter,Georgia,13261,162,180,6,5
+2020-04-08,Talbot,Georgia,13263,8,7,1,1
+2020-04-08,Webster,Georgia,13307,4,3,0,0
+2020-04-08,Whitfield,Georgia,13313,21,19,2,3
+2020-04-08,Jasper,Indiana,18073,15,14,1,1
+2020-04-08,Martin,Indiana,18101,2,1,0,0
+2020-04-08,Orange,Indiana,18117,14,11,2,2
+2020-04-08,Parke,Indiana,18121,6,5,0,0
+2020-04-08,Assumption,Louisiana,22007,84,89,1,0
+2020-04-08,Caddo,Louisiana,22017,756,803,26,25
+2020-04-08,Iberia,Louisiana,22045,89,97,5,4
+2020-04-08,Unknown,Maine,,9,8,0,0
+2020-04-08,Allegany,Maryland,24001,7,6,0,0
+2020-04-08,Dukes,Massachusetts,25007,9,8,0,0
+2020-04-08,Franklin,Massachusetts,25011,118,117,17,21
+2020-04-08,Unknown,Massachusetts,,229,223,3,5
+2020-04-08,Gratiot,Michigan,26057,6,5,0,0
+2020-04-08,Marquette,Michigan,26103,19,18,2,2
+2020-04-08,Unknown,Michigan,,405,363,0,3
+2020-04-08,Blue Earth,Minnesota,27013,22,21,0,0
+2020-04-08,Sherburne,Minnesota,27141,10,9,0,0
+2020-04-08,Harrison,Mississippi,28047,89,88,3,3
+2020-04-08,Simpson,Mississippi,28127,7,6,0,0
+2020-04-08,Winston,Mississippi,28159,17,16,0,0
+2020-04-08,Lafayette,Missouri,29107,28,27,1,1
+2020-04-08,Unknown,Missouri,,2,1,0,0
+2020-04-08,Unknown,New Jersey,,2220,1362,5,4
+2020-04-08,Allegany,New York,36003,17,21,1,0
+2020-04-08,Delaware,New York,36025,36,37,1,0
+2020-04-08,Genesee,New York,36037,33,47,1,0
+2020-04-08,Herkimer,New York,36043,32,32,3,1
+2020-04-08,Livingston,New York,36051,28,28,1,0
+2020-04-08,Madison,New York,36053,92,92,2,1
+2020-04-08,Monroe,New York,36055,596,651,31,27
+2020-04-08,Orange,New York,36071,3599,3865,76,68
+2020-04-08,Oswego,New York,36075,34,34,2,0
+2020-04-08,Rensselaer,New York,36083,91,91,3,1
+2020-04-08,Rockland,New York,36087,5990,6413,119,98
+2020-04-08,Saratoga,New York,36091,163,167,3,1
+2020-04-08,Steuben,New York,36101,79,82,4,3
+2020-04-08,Ulster,New York,36111,402,422,5,2
+2020-04-08,Washington,New York,36115,19,20,1,0
+2020-04-08,Wyoming,New York,36121,23,27,1,0
+2020-04-08,Forsyth,North Carolina,37067,105,104,2,2
+2020-04-08,Henderson,North Carolina,37089,51,50,1,2
+2020-04-08,Hertford,North Carolina,37091,5,4,1,1
+2020-04-08,Huron,Ohio,39077,10,9,1,1
+2020-04-08,Garvin,Oklahoma,40049,12,11,0,0
+2020-04-08,McClain,Oklahoma,40087,16,15,0,0
+2020-04-08,McIntosh,Oklahoma,40091,2,1,0,0
+2020-04-08,Osage,Oklahoma,40113,34,33,5,5
+2020-04-08,Clarion,Pennsylvania,42031,9,8,0,0
+2020-04-08,Montour,Pennsylvania,42093,27,26,0,0
+2020-04-08,Darlington,South Carolina,45031,29,28,0,0
+2020-04-08,Fairfield,South Carolina,45039,17,16,0,0
+2020-04-08,Lexington,South Carolina,45063,130,128,5,5
+2020-04-08,Kendall,Texas,48259,10,9,0,0
+2020-04-08,Unknown,Vermont,,3,8,16,0
+2020-04-08,Fauquier,Virginia,51061,18,17,0,0
+2020-04-08,New Kent,Virginia,51127,12,11,0,0
+2020-04-08,Petersburg city,Virginia,51730,10,9,0,0
+2020-04-08,Stafford,Virginia,51179,49,48,0,0
+2020-04-08,Campbell,Wyoming,56005,9,6,0,0
+2020-04-08,Converse,Wyoming,56009,4,3,0,0
+2020-04-08,Fremont,Wyoming,56013,38,37,0,0
+2020-04-08,Goshen,Wyoming,56015,3,2,0,0
+2020-04-08,Laramie,Wyoming,56021,48,44,0,0
+2020-04-08,Lincoln,Wyoming,56023,4,3,0,0
+2020-04-08,Natrona,Wyoming,56025,26,23,0,0
+2020-04-08,Sweetwater,Wyoming,56037,6,5,0,0
+2020-04-08,Teton,Wyoming,56039,44,39,0,0
+2020-04-08,Uinta,Wyoming,56041,3,2,0,0
+2020-04-09,Conecuh,Alabama,01035,4,3,0,0
+2020-04-09,Cleburne,Arkansas,05023,70,69,4,4
+2020-04-09,Lincoln,Arkansas,05079,11,10,0,0
+2020-04-09,Imperial,California,06025,75,79,3,2
+2020-04-09,Unknown,Colorado,,238,233,0,0
+2020-04-09,Unknown,Connecticut,,366,392,3,2
+2020-04-09,Charlton,Georgia,13049,3,2,0,0
+2020-04-09,Glynn,Georgia,13127,32,31,0,0
+2020-04-09,Unknown,Georgia,,871,951,9,8
+2020-04-09,Unknown,Hawaii,,7,3,0,0
+2020-04-09,Payette,Idaho,16075,6,8,1,0
+2020-04-09,Howard,Indiana,18067,44,42,4,4
+2020-04-09,Union,Kentucky,21225,4,3,0,0
+2020-04-09,Terrebonne,Louisiana,22109,209,233,14,13
+2020-04-09,Unknown,Maine,,8,4,0,0
+2020-04-09,Unknown,Massachusetts,,223,203,5,5
+2020-04-09,Beltrami,Minnesota,27007,6,5,0,0
+2020-04-09,Barry,Missouri,29009,2,1,0,0
+2020-04-09,Cedar,Missouri,29039,8,5,0,0
+2020-04-09,Clinton,Missouri,29049,11,9,0,0
+2020-04-09,Crawford,Missouri,29055,5,4,0,0
+2020-04-09,Lafayette,Missouri,29107,27,26,1,1
+2020-04-09,Moniteau,Missouri,29135,4,3,0,0
+2020-04-09,Pulaski,Missouri,29169,12,11,1,1
+2020-04-09,Warren,Missouri,29219,13,12,0,0
+2020-04-09,Madison,Montana,30057,9,8,1,1
+2020-04-09,Unknown,Nevada,,53,20,6,0
+2020-04-09,Unknown,New Jersey,,1362,996,4,12
+2020-04-09,Warren,New Jersey,34041,289,319,9,7
+2020-04-09,Columbia,New York,36021,72,70,4,4
+2020-04-09,Lewis,New York,36049,8,6,0,0
+2020-04-09,Livingston,New York,36051,28,26,0,1
+2020-04-09,Madison,New York,36053,92,91,1,1
+2020-04-09,Onondaga,New York,36067,377,358,9,10
+2020-04-09,Rensselaer,New York,36083,91,79,1,3
+2020-04-09,Yates,New York,36123,2,1,0,0
+2020-04-09,Catawba,North Carolina,37035,28,27,1,1
+2020-04-09,Greene,North Carolina,37079,10,9,0,0
+2020-04-09,Lee,North Carolina,37105,5,4,0,0
+2020-04-09,Ashtabula,Ohio,39007,20,19,0,0
+2020-04-09,Clinton,Ohio,39027,11,12,1,0
+2020-04-09,Hancock,Ohio,39063,17,16,0,0
+2020-04-09,Wallowa,Oregon,41063,2,1,0,0
+2020-04-09,Montour,Pennsylvania,42093,26,25,0,0
+2020-04-09,Jasper,South Carolina,45053,12,11,0,0
+2020-04-09,Essex,Vermont,50009,3,1,0,0
+2020-04-09,Taylor,West Virginia,54091,5,3,0,0
+2020-04-09,Wetzel,West Virginia,54103,3,2,0,0
+2020-04-09,Manitowoc,Wisconsin,55071,4,3,0,0
+2020-04-09,Ozaukee,Wisconsin,55089,70,71,11,9
+2020-04-10,Jefferson,Arkansas,05069,91,90,1,2
+2020-04-10,Yuba,California,06115,15,15,3,1
+2020-04-10,Unknown,Colorado,,233,145,0,1
+2020-04-10,Orange,Florida,12095,859,901,12,11
+2020-04-10,Atkinson,Georgia,13003,4,2,0,0
+2020-04-10,Burke,Georgia,13033,21,24,1,0
+2020-04-10,Clarke,Georgia,13059,82,81,10,10
+2020-04-10,Polk,Georgia,13233,22,21,0,0
+2020-04-10,Quitman,Georgia,13239,4,3,0,0
+2020-04-10,Unknown,Georgia,,951,1226,8,5
+2020-04-10,Macon,Illinois,17115,15,14,1,1
+2020-04-10,Montgomery,Illinois,17135,6,8,1,0
+2020-04-10,Clay,Indiana,18021,12,11,0,0
+2020-04-10,Harrison,Indiana,18061,51,50,1,1
+2020-04-10,Jasper,Indiana,18073,16,15,1,1
+2020-04-10,Rush,Indiana,18139,14,12,1,1
+2020-04-10,Switzerland,Indiana,18155,13,12,0,0
+2020-04-10,Washington,Louisiana,22117,119,136,8,7
+2020-04-10,Unknown,Maine,,4,3,0,0
+2020-04-10,Garrett,Maryland,24023,5,4,0,0
+2020-04-10,Unknown,Massachusetts,,203,129,5,5
+2020-04-10,Lawrence,Mississippi,28077,8,7,0,0
+2020-04-10,Boone,Missouri,29019,78,77,1,1
+2020-04-10,Greene,Missouri,29077,72,71,8,8
+2020-04-10,McDonald,Missouri,29119,4,3,0,0
+2020-04-10,Pulaski,Missouri,29169,11,10,1,1
+2020-04-10,Stone,Missouri,29209,4,3,0,0
+2020-04-10,Warren,Missouri,29219,12,11,0,0
+2020-04-10,Deer Lodge,Montana,30023,4,3,0,0
+2020-04-10,Lake,Montana,30047,6,5,0,0
+2020-04-10,Nye,Nevada,32023,11,10,0,0
+2020-04-10,Unknown,New Jersey,,996,649,12,2
+2020-04-10,Clay,North Carolina,37043,4,3,0,0
+2020-04-10,Johnston,North Carolina,37101,57,80,5,4
+2020-04-10,Watauga,North Carolina,37189,8,7,0,0
+2020-04-10,Cuyahoga,Ohio,39035,1014,1052,23,22
+2020-04-10,Garvin,Oklahoma,40049,13,11,0,0
+2020-04-10,Yamhill,Oregon,41071,29,28,5,5
+2020-04-10,Bedford,Pennsylvania,42009,4,3,0,0
+2020-04-10,Saluda,South Carolina,45081,7,6,0,0
+2020-04-10,Unknown,Tennessee,,0,22,8,0
+2020-04-10,Box Elder,Utah,49003,13,12,0,0
+2020-04-10,Fluvanna,Virginia,51065,16,15,0,0
+2020-04-10,Unknown,Washington,,815,627,0,0
+2020-04-10,Harrison,West Virginia,54033,29,28,1,1
+2020-04-10,Jefferson,West Virginia,54037,45,44,0,0
+2020-04-10,Mason,West Virginia,54053,7,6,0,0
+2020-04-10,Columbia,Wisconsin,55021,25,24,1,1
+2020-04-11,Dallas,Alabama,01047,11,10,0,0
+2020-04-11,Yuma,Arizona,04027,16,15,0,0
+2020-04-11,Marin,California,06041,154,153,10,10
+2020-04-11,La Plata,Colorado,08067,44,43,0,0
+2020-04-11,Montezuma,Colorado,08083,12,11,2,2
+2020-04-11,Unknown,Colorado,,145,175,1,0
+2020-04-11,Bryan,Georgia,13029,29,28,2,1
+2020-04-11,Cobb,Georgia,13067,681,705,33,32
+2020-04-11,Glynn,Georgia,13127,34,33,0,0
+2020-04-11,Oconee,Georgia,13219,37,36,1,0
+2020-04-11,Richmond,Georgia,13245,134,138,4,3
+2020-04-11,Unknown,Georgia,,1226,1300,5,4
+2020-04-11,Unknown,Hawaii,,4,3,0,0
+2020-04-11,Madison,Idaho,16065,6,5,0,0
+2020-04-11,Fulton,Illinois,17057,2,1,0,0
+2020-04-11,Greene,Illinois,17061,2,1,0,0
+2020-04-11,LaSalle,Illinois,17099,19,18,1,1
+2020-04-11,Unknown,Illinois,,81,85,1,0
+2020-04-11,Putnam,Indiana,18133,31,32,3,2
+2020-04-11,Muhlenberg,Kentucky,21177,36,28,0,0
+2020-04-11,Evangeline,Louisiana,22039,35,34,0,0
+2020-04-11,Calvert,Maryland,24009,76,82,2,1
+2020-04-11,Copiah,Mississippi,28029,30,28,0,0
+2020-04-11,Lawrence,Mississippi,28077,7,6,0,0
+2020-04-11,Warren,Mississippi,28149,12,11,0,0
+2020-04-11,Callaway,Missouri,29027,21,20,1,1
+2020-04-11,Lafayette,Missouri,29107,28,27,1,1
+2020-04-11,Pettis,Missouri,29159,4,3,0,0
+2020-04-11,Garvin,Oklahoma,40049,11,10,0,0
+2020-04-11,Ottawa,Oklahoma,40115,17,16,0,0
+2020-04-11,Sequoyah,Oklahoma,40135,10,9,2,2
+2020-04-11,Mifflin,Pennsylvania,42087,11,10,0,0
+2020-04-11,Unknown,Rhode Island,,712,673,29,36
+2020-04-11,Dillon,South Carolina,45033,5,3,0,0
+2020-04-11,Beadle,South Dakota,46005,22,21,2,2
+2020-04-11,Brookings,South Dakota,46011,7,6,0,0
+2020-04-11,Chester,Tennessee,47023,7,6,0,0
+2020-04-11,Polk,Tennessee,47139,5,4,0,0
+2020-04-11,Weber,Utah,49057,90,84,1,1
+2020-04-11,Unknown,Vermont,,26,11,1,0
+2020-04-11,King George,Virginia,51099,14,13,0,0
+2020-04-11,New Kent,Virginia,51127,13,12,0,0
+2020-04-11,Orange,Virginia,51137,14,13,0,0
+2020-04-11,Unknown,Washington,,627,583,0,0
+2020-04-11,Barbour,West Virginia,54001,5,4,0,0
+2020-04-11,Roane,West Virginia,54087,3,2,0,0
+2020-04-12,Unknown,Arizona,,0,0,5,1
+2020-04-12,Gunnison,Colorado,08051,102,101,3,3
+2020-04-12,Unknown,Colorado,,175,156,0,0
+2020-04-12,Unknown,Connecticut,,456,501,5,4
+2020-04-12,Flagler,Florida,12035,46,45,1,2
+2020-04-12,Walton,Florida,12131,30,29,0,0
+2020-04-12,Washington,Florida,12133,5,4,0,0
+2020-04-12,Unknown,Georgia,,1300,613,4,0
+2020-04-12,Moultrie,Illinois,17139,3,2,0,0
+2020-04-12,Cass,Indiana,18017,23,22,1,1
+2020-04-12,Jefferson,Indiana,18077,13,12,0,0
+2020-04-12,Montgomery,Kansas,20125,14,11,2,2
+2020-04-12,Unknown,Kansas,,0,0,4,3
+2020-04-12,Allen,Kentucky,21003,4,2,0,0
+2020-04-12,Boyd,Kentucky,21019,26,23,2,2
+2020-04-12,Bracken,Kentucky,21023,6,5,0,0
+2020-04-12,Caldwell,Kentucky,21033,10,9,0,0
+2020-04-12,Campbell,Kentucky,21037,47,45,3,3
+2020-04-12,Clinton,Kentucky,21053,3,2,0,0
+2020-04-12,Cumberland,Kentucky,21057,3,2,0,0
+2020-04-12,Grant,Kentucky,21081,13,12,1,1
+2020-04-12,Green,Kentucky,21087,2,1,0,0
+2020-04-12,Henderson,Kentucky,21101,29,23,0,0
+2020-04-12,Hopkins,Kentucky,21107,88,86,8,9
+2020-04-12,Laurel,Kentucky,21125,9,8,0,0
+2020-04-12,Marion,Kentucky,21155,11,10,0,0
+2020-04-12,Martin,Kentucky,21159,4,1,0,0
+2020-04-12,McCreary,Kentucky,21147,8,7,0,0
+2020-04-12,McLean,Kentucky,21149,6,5,0,0
+2020-04-12,Powell,Kentucky,21197,2,1,0,0
+2020-04-12,Pulaski,Kentucky,21199,33,31,2,2
+2020-04-12,Russell,Kentucky,21207,8,6,0,0
+2020-04-12,Simpson,Kentucky,21213,17,16,1,1
+2020-04-12,Trimble,Kentucky,21223,2,1,0,0
+2020-04-12,Warren,Kentucky,21227,49,46,0,0
+2020-04-12,Webster,Kentucky,21233,8,7,0,0
+2020-04-12,Woodford,Kentucky,21239,17,14,0,0
+2020-04-12,Plaquemines,Louisiana,22075,136,137,11,10
+2020-04-12,Harford,Maryland,24025,120,129,1,0
+2020-04-12,Cheboygan,Michigan,26031,11,10,1,1
+2020-04-12,Iosco,Michigan,26069,5,4,1,1
+2020-04-12,Newton,Mississippi,28101,12,10,0,0
+2020-04-12,Brunswick,North Carolina,37019,34,33,2,2
+2020-04-12,Burke,North Carolina,37023,61,60,2,3
+2020-04-12,Cabarrus,North Carolina,37025,107,117,2,1
+2020-04-12,Catawba,North Carolina,37035,33,32,1,1
+2020-04-12,Franklin,North Carolina,37069,27,64,1,0
+2020-04-12,Halifax,North Carolina,37083,21,20,0,0
+2020-04-12,Iredell,North Carolina,37097,71,70,1,1
+2020-04-12,Randolph,North Carolina,37151,51,50,2,2
+2020-04-12,Hancock,Ohio,39063,20,19,1,1
+2020-04-12,Huron,Ohio,39077,15,14,1,1
+2020-04-12,Philadelphia,Pennsylvania,42101,6022,6352,130,128
+2020-04-12,Susquehanna,Pennsylvania,42115,23,25,2,1
+2020-04-12,Georgetown,South Carolina,45043,32,31,1,1
+2020-04-12,Unknown,Utah,,22,6,7,7
+2020-04-12,Prince William,Virginia,51153,390,389,1,1
+2020-04-12,Rockingham,Virginia,51165,44,43,0,0
+2020-04-12,Unknown,Washington,,583,499,0,0
+2020-04-12,Ozaukee,Wisconsin,55089,72,72,12,9
+2020-04-13,Clark,Arkansas,05019,27,26,0,0
+2020-04-13,Faulkner,Arkansas,05045,59,58,1,2
+2020-04-13,Hempstead,Arkansas,05057,5,4,1,1
+2020-04-13,Lonoke,Arkansas,05085,30,29,0,0
+2020-04-13,Union,Arkansas,05139,18,17,0,0
+2020-04-13,Gunnison,Colorado,08051,101,99,3,3
+2020-04-13,Teller,Colorado,08119,16,15,2,2
+2020-04-13,Unknown,Colorado,,156,145,0,0
+2020-04-13,Unknown,Connecticut,,501,491,4,4
+2020-04-13,Levy,Florida,12075,8,7,0,0
+2020-04-13,Putnam,Florida,12107,43,42,1,1
+2020-04-13,Unknown,Florida,,2,1,0,0
+2020-04-13,Unknown,Georgia,,613,560,0,0
+2020-04-13,Unknown,Illinois,,94,65,0,0
+2020-04-13,Winnebago,Illinois,17201,94,99,7,4
+2020-04-13,Huntington,Indiana,18069,7,6,1,1
+2020-04-13,Marshall,Indiana,18099,19,17,0,0
+2020-04-13,Switzerland,Indiana,18155,13,12,0,0
+2020-04-13,Dallas,Iowa,19049,37,36,0,0
+2020-04-13,Warren,Iowa,19181,16,14,0,0
+2020-04-13,Unknown,Kentucky,,24,23,0,0
+2020-04-13,St. Bernard,Louisiana,22087,361,369,10,8
+2020-04-13,St. Charles,Louisiana,22089,404,410,25,23
+2020-04-13,Unknown,Louisiana,,54,56,3,0
+2020-04-13,Shiawassee,Michigan,26155,54,53,1,1
+2020-04-13,Unknown,Michigan,,480,469,20,12
+2020-04-13,Unknown,New Jersey,,1274,1203,2,2
+2020-04-13,Otero,New Mexico,35035,4,3,0,0
+2020-04-13,Bladen,North Carolina,37017,2,1,0,0
+2020-04-13,Davidson,North Carolina,37057,85,84,2,2
+2020-04-13,Gaston,North Carolina,37071,81,80,3,3
+2020-04-13,Lee,North Carolina,37105,15,12,0,0
+2020-04-13,Brown,Ohio,39015,6,5,1,1
+2020-04-13,Clermont,Ohio,39025,41,39,1,1
+2020-04-13,Lincoln,Oklahoma,40081,11,10,0,0
+2020-04-13,Philadelphia,Pennsylvania,42101,6352,6810,128,127
+2020-04-13,Lexington,South Carolina,45063,212,206,6,6
+2020-04-13,Marion,South Carolina,45067,7,6,1,1
+2020-04-13,Clay,South Dakota,46027,6,5,0,0
+2020-04-13,Franklin,Tennessee,47051,22,21,1,1
+2020-04-13,Haywood,Tennessee,47075,13,12,1,1
+2020-04-13,Dickens,Texas,48125,2,1,0,0
+2020-04-13,Rusk,Texas,48401,16,15,0,0
+2020-04-13,Unknown,Vermont,,11,8,0,0
+2020-04-13,Unknown,Virginia,,0,2,68,49
+2020-04-13,Kittitas,Washington,53037,15,14,0,0
+2020-04-13,Lewis,Washington,53041,18,17,2,2
+2020-04-13,Unknown,Washington,,499,329,0,0
+2020-04-13,Whitman,Washington,53075,13,12,0,0
+2020-04-13,Kanawha,West Virginia,54039,86,85,0,0
+2020-04-13,Monongalia,West Virginia,54061,83,81,4,4
+2020-04-13,Ohio,West Virginia,54069,25,23,0,1
+2020-04-14,Lamar,Alabama,01075,8,7,0,0
+2020-04-14,Marengo,Alabama,01091,24,23,1,1
+2020-04-14,Mobile,Alabama,01097,491,509,18,17
+2020-04-14,Cochise,Arizona,04003,16,15,0,0
+2020-04-14,Unknown,Colorado,,145,110,0,0
+2020-04-14,Bay,Florida,12005,39,38,1,2
+2020-04-14,Unknown,Georgia,,560,287,0,0
+2020-04-14,Fayette,Illinois,17051,11,12,2,1
+2020-04-14,Lee,Illinois,17103,14,13,0,0
+2020-04-14,Unknown,Illinois,,65,43,0,0
+2020-04-14,Henry,Indiana,18065,23,22,0,0
+2020-04-14,Rush,Indiana,18139,17,16,1,1
+2020-04-14,Union,Indiana,18161,9,6,0,0
+2020-04-14,Cowley,Kansas,20035,2,1,1,1
+2020-04-14,Boyle,Kentucky,21021,14,13,0,0
+2020-04-14,Calloway,Kentucky,21035,16,15,1,1
+2020-04-14,Henry,Kentucky,21103,4,3,0,0
+2020-04-14,Unknown,Kentucky,,23,15,0,0
+2020-04-14,Knox,Maine,23013,12,11,0,0
+2020-04-14,Sagadahoc,Maine,23023,15,14,1,0
+2020-04-14,Unknown,Maine,,5,2,0,0
+2020-04-14,Somerset,Maryland,24039,6,5,0,0
+2020-04-14,Dukes,Massachusetts,25007,12,11,0,0
+2020-04-14,Ottawa,Michigan,26139,69,67,2,2
+2020-04-14,Mower,Minnesota,27099,25,24,0,0
+2020-04-14,Unknown,Minnesota,,34,6,0,0
+2020-04-14,Claiborne,Mississippi,28021,7,6,0,0
+2020-04-14,Neshoba,Mississippi,28099,34,33,0,1
+2020-04-14,St. Francois,Missouri,29187,23,22,1,1
+2020-04-14,Taney,Missouri,29213,8,7,1,1
+2020-04-14,Cheyenne,Nebraska,31033,3,2,0,0
+2020-04-14,Carroll,New Hampshire,33003,30,29,0,0
+2020-04-14,Beaufort,North Carolina,37013,14,13,0,0
+2020-04-14,Burke,North Carolina,37023,61,59,3,3
+2020-04-14,Franklin,North Carolina,37069,67,66,0,2
+2020-04-14,Guilford,North Carolina,37081,138,137,10,10
+2020-04-14,Lenoir,North Carolina,37107,15,14,0,0
+2020-04-14,Rowan,North Carolina,37159,204,201,3,7
+2020-04-14,Gallia,Ohio,39053,8,6,1,1
+2020-04-14,Wayne,Ohio,39169,54,51,5,5
+2020-04-14,Garvin,Oklahoma,40049,11,10,0,0
+2020-04-14,Greer,Oklahoma,40055,50,49,4,4
+2020-04-14,Mayes,Oklahoma,40097,15,14,2,3
+2020-04-14,McClain,Oklahoma,40087,19,18,0,0
+2020-04-14,Ottawa,Oklahoma,40115,23,22,0,0
+2020-04-14,Payne,Oklahoma,40119,29,28,0,0
+2020-04-14,Columbia,Oregon,41009,12,11,0,0
+2020-04-14,Mifflin,Pennsylvania,42087,17,16,0,0
+2020-04-14,Tioga,Pennsylvania,42117,14,13,1,1
+2020-04-14,Wyoming,Pennsylvania,42131,12,11,0,0
+2020-04-14,Unknown,Rhode Island,,1300,756,53,60
+2020-04-14,Edgefield,South Carolina,45037,10,9,0,0
+2020-04-14,Chester,Tennessee,47023,6,5,0,0
+2020-04-14,Grundy,Tennessee,47061,23,22,0,1
+2020-04-14,Jackson,Tennessee,47087,7,6,0,0
+2020-04-14,Montgomery,Tennessee,47125,102,101,2,2
+2020-04-14,Unknown,Utah,,44,0,7,8
+2020-04-14,Botetourt,Virginia,51023,24,23,0,0
+2020-04-14,Lee,Virginia,51105,7,6,0,0
+2020-04-14,Lunenburg,Virginia,51111,4,3,0,0
+2020-04-14,Norfolk city,Virginia,51710,99,97,1,1
+2020-04-14,Roanoke,Virginia,51161,18,16,0,0
+2020-04-14,Unknown,Virginia,,2,0,49,32
+2020-04-14,Washington,Virginia,51191,28,27,0,0
+2020-04-14,Unknown,Washington,,329,220,0,0
+2020-04-14,Barbour,West Virginia,54001,9,4,0,0
+2020-04-14,Kenosha,Wisconsin,55059,182,186,4,3
+2020-04-14,Rock,Wisconsin,55105,60,59,3,4
+2020-04-15,Coconino,Arizona,04005,270,266,22,24
+2020-04-15,Yavapai,Arizona,04025,70,66,1,1
+2020-04-15,Franklin,Arkansas,05047,2,1,0,0
+2020-04-15,Johnson,Arkansas,05071,19,18,0,0
+2020-04-15,Elbert,Colorado,08039,17,16,1,1
+2020-04-15,Mesa,Colorado,08077,35,34,0,0
+2020-04-15,Unknown,Connecticut,,533,537,4,2
+2020-04-15,Citrus,Florida,12017,75,74,7,8
+2020-04-15,Effingham,Georgia,13103,25,24,1,1
+2020-04-15,Macon,Georgia,13193,47,37,0,0
+2020-04-15,Unknown,Georgia,,287,136,0,0
+2020-04-15,Unknown,Hawaii,,3,1,0,0
+2020-04-15,Macon,Illinois,17115,45,44,3,5
+2020-04-15,Morgan,Illinois,17137,11,10,1,1
+2020-04-15,Wabash,Illinois,17185,2,1,0,0
+2020-04-15,Whiteside,Illinois,17195,30,29,3,3
+2020-04-15,Jefferson,Indiana,18077,16,15,0,0
+2020-04-15,Pike,Indiana,18125,2,1,0,0
+2020-04-15,Ripley,Indiana,18137,89,88,3,3
+2020-04-15,Benton,Iowa,19011,20,19,1,1
+2020-04-15,Hardin,Iowa,19083,2,1,0,0
+2020-04-15,Bullitt,Kentucky,21029,34,32,2,2
+2020-04-15,Logan,Kentucky,21141,10,9,0,0
+2020-04-15,Spencer,Kentucky,21215,9,8,0,0
+2020-04-15,Avoyelles,Louisiana,22009,65,64,2,3
+2020-04-15,Lincoln,Louisiana,22061,42,41,0,0
+2020-04-15,St. John the Baptist,Louisiana,22095,562,569,48,47
+2020-04-15,Anne Arundel,Maryland,24003,783,845,32,29
+2020-04-15,Baltimore,Maryland,24005,1377,1485,41,31
+2020-04-15,Baltimore city,Maryland,24510,962,1060,29,26
+2020-04-15,Carroll,Maryland,24013,259,262,29,28
+2020-04-15,Charles,Maryland,24017,292,310,12,11
+2020-04-15,Montgomery,Maryland,24031,1883,1933,54,48
+2020-04-15,Prince George's,Maryland,24033,2356,2516,72,65
+2020-04-15,Talbot,Maryland,24041,16,14,1,1
+2020-04-15,Nobles,Minnesota,27105,3,2,0,0
+2020-04-15,Unknown,Minnesota,,6,5,0,0
+2020-04-15,George,Mississippi,28039,10,8,0,0
+2020-04-15,Christian,Missouri,29043,19,18,0,0
+2020-04-15,Franklin,Missouri,29071,84,83,3,3
+2020-04-15,Unknown,Nevada,,0,0,9,6
+2020-04-15,Grafton,New Hampshire,33009,45,44,0,0
+2020-04-15,Unknown,New Jersey,,1702,1189,2,2
+2020-04-15,Currituck,North Carolina,37053,3,2,0,0
+2020-04-15,Dare,North Carolina,37055,12,11,1,1
+2020-04-15,Duplin,North Carolina,37061,19,18,0,0
+2020-04-15,Iredell,North Carolina,37097,71,70,2,2
+2020-04-15,Rockingham,North Carolina,37157,16,15,2,2
+2020-04-15,Greene,Ohio,39057,31,31,2,1
+2020-04-15,Hocking,Ohio,39073,4,3,0,0
+2020-04-15,Madison,Ohio,39097,24,23,3,3
+2020-04-15,Craig,Oklahoma,40035,9,8,0,0
+2020-04-15,Creek,Oklahoma,40037,60,57,3,3
+2020-04-15,Jackson,Oklahoma,40065,7,6,0,0
+2020-04-15,Sequoyah,Oklahoma,40135,11,10,2,2
+2020-04-15,Washington,Oregon,41067,365,364,7,7
+2020-04-15,Mifflin,Pennsylvania,42087,16,15,0,0
+2020-04-15,Calhoun,South Carolina,45017,6,5,1,1
+2020-04-15,Horry,South Carolina,45051,151,150,8,8
+2020-04-15,Union,South Dakota,46127,5,4,0,0
+2020-04-15,San Jacinto,Texas,48407,8,7,0,0
+2020-04-15,San Patricio,Texas,48409,9,8,0,0
+2020-04-15,Emporia city,Virginia,51595,8,7,0,0
+2020-04-15,Williamsburg city,Virginia,51830,20,19,1,1
+2020-04-15,Unknown,Washington,,220,77,0,0
+2020-04-15,Cabell,West Virginia,54011,29,28,0,0
+2020-04-16,Dallas,Alabama,01047,22,21,2,2
+2020-04-16,Walker,Alabama,01127,85,84,0,0
+2020-04-16,Benton,Arkansas,05007,62,61,0,0
+2020-04-16,Unknown,Arkansas,,50,44,0,0
+2020-04-16,Eagle,Colorado,08037,480,479,6,6
+2020-04-16,Unknown,Colorado,,111,96,1,1
+2020-04-16,Unknown,Connecticut,,537,534,2,2
+2020-04-16,Windham,Connecticut,09015,89,87,1,1
+2020-04-16,Gilchrist,Florida,12041,6,4,0,0
+2020-04-16,Hancock,Indiana,18059,129,127,6,6
+2020-04-16,Randolph,Indiana,18135,11,10,1,1
+2020-04-16,Wapello,Iowa,19179,7,6,0,0
+2020-04-16,Logan,Kentucky,21141,9,8,0,0
+2020-04-16,Unknown,Kentucky,,77,76,1,1
+2020-04-16,Caddo,Louisiana,22017,1118,1154,57,55
+2020-04-16,Iberia,Louisiana,22045,159,164,7,6
+2020-04-16,St. Mary's,Maryland,24037,99,98,3,1
+2020-04-16,Unknown,Michigan,,584,601,17,16
+2020-04-16,Blue Earth,Minnesota,27013,23,22,0,0
+2020-04-16,Dakota,Minnesota,27037,103,103,5,4
+2020-04-16,Christian,Missouri,29043,18,17,0,0
+2020-04-16,Unknown,Nevada,,0,16,6,4
+2020-04-16,Unknown,New Jersey,,1189,1048,2,3
+2020-04-16,Duplin,North Carolina,37061,18,17,0,0
+2020-04-16,Forsyth,North Carolina,37067,123,122,4,5
+2020-04-16,Greene,North Carolina,37079,13,12,0,0
+2020-04-16,Hertford,North Carolina,37091,5,4,1,1
+2020-04-16,Ashland,Ohio,39005,6,5,0,0
+2020-04-16,Craig,Oklahoma,40035,8,7,0,0
+2020-04-16,Muskogee,Oklahoma,40101,26,25,2,3
+2020-04-16,Beaufort,South Carolina,45013,205,206,7,6
+2020-04-16,Berkeley,South Carolina,45015,101,116,3,2
+2020-04-16,McCormick,South Carolina,45065,4,5,2,1
+2020-04-16,Anderson,Tennessee,47001,16,15,1,1
+2020-04-16,Bledsoe,Tennessee,47007,8,7,0,0
+2020-04-16,Blount,Tennessee,47009,47,46,3,3
+2020-04-16,Madison,Tennessee,47113,75,73,0,0
+2020-04-16,Fayette,Texas,48149,17,14,0,0
+2020-04-16,Unknown,Utah,,0,3,9,1
+2020-04-16,Wasatch,Utah,49051,105,103,1,1
+2020-04-16,Unknown,Vermont,,12,9,0,0
+2020-04-16,Campbell,Virginia,51031,11,9,0,0
+2020-04-16,Cumberland,Virginia,51049,8,7,0,0
+2020-04-16,Frederick,Virginia,51069,73,72,0,0
+2020-04-16,Prince George,Virginia,51149,27,26,0,0
+2020-04-16,Sussex,Virginia,51183,10,9,0,0
+2020-04-16,Franklin,Washington,53021,142,156,4,2
+2020-04-16,Grant,Washington,53025,129,132,2,1
+2020-04-16,Okanogan,Washington,53047,15,14,0,0
+2020-04-16,Hampshire,West Virginia,54027,7,6,0,0
+2020-04-16,Marion,West Virginia,54049,41,39,2,2
+2020-04-16,Ohio,West Virginia,54069,23,22,1,1
+2020-04-16,Sauk,Wisconsin,55111,31,31,4,3
+2020-04-17,Bibb,Alabama,01007,24,23,0,0
+2020-04-17,Walker,Alabama,01127,84,83,0,0
+2020-04-17,Unknown,Arkansas,,44,43,0,0
+2020-04-17,Alpine,California,06003,2,1,0,0
+2020-04-17,Unknown,Colorado,,96,78,1,1
+2020-04-17,Unknown,Connecticut,,534,495,2,2
+2020-04-17,Baker,Georgia,13007,18,16,2,2
+2020-04-17,Calhoun,Georgia,13037,59,57,2,2
+2020-04-17,Dawson,Georgia,13085,39,42,2,1
+2020-04-17,Floyd,Georgia,13115,122,121,6,8
+2020-04-17,Seminole,Georgia,13253,21,20,1,2
+2020-04-17,Taylor,Georgia,13269,11,10,3,2
+2020-04-17,Thomas,Georgia,13275,112,115,14,13
+2020-04-17,Tift,Georgia,13277,79,80,4,3
+2020-04-17,Payette,Idaho,16075,10,9,1,1
+2020-04-17,Effingham,Illinois,17049,4,3,1,1
+2020-04-17,Logan,Illinois,17107,5,4,0,0
+2020-04-17,Macoupin,Illinois,17117,18,17,0,0
+2020-04-17,Massac,Illinois,17127,4,3,0,0
+2020-04-17,Pulaski,Illinois,17153,6,5,0,0
+2020-04-17,Miami,Indiana,18103,22,21,0,0
+2020-04-17,Ripley,Indiana,18137,89,77,3,3
+2020-04-17,Washington,Indiana,18175,28,27,0,0
+2020-04-17,Whitley,Indiana,18183,15,14,1,1
+2020-04-17,Miami,Kansas,20121,5,4,0,0
+2020-04-17,Scott,Kansas,20171,2,1,0,0
+2020-04-17,Bourbon,Kentucky,21017,7,5,1,1
+2020-04-17,Daviess,Kentucky,21059,106,105,3,3
+2020-04-17,Greenup,Kentucky,21089,11,10,0,0
+2020-04-17,McCracken,Kentucky,21145,28,27,2,2
+2020-04-17,Russell,Kentucky,21207,12,11,0,2
+2020-04-17,Unknown,Kentucky,,76,25,1,0
+2020-04-17,Woodford,Kentucky,21239,20,18,0,0
+2020-04-17,St. Bernard,Louisiana,22087,388,404,12,11
+2020-04-17,St. Charles,Louisiana,22089,486,471,26,26
+2020-04-17,Winn,Louisiana,22127,17,16,2,2
+2020-04-17,Antrim,Michigan,26009,9,8,0,0
+2020-04-17,Becker,Minnesota,27005,2,1,0,0
+2020-04-17,Freeborn,Minnesota,27047,29,28,0,0
+2020-04-17,Unknown,Minnesota,,5,1,0,0
+2020-04-17,Scott,Mississippi,28123,100,96,0,0
+2020-04-17,Musselshell,Montana,30065,3,1,0,0
+2020-04-17,Washington,Nebraska,31177,22,20,1,1
+2020-04-17,Unknown,Nevada,,16,80,4,0
+2020-04-17,Unknown,New Jersey,,1048,719,3,3
+2020-04-17,Fairfield,Ohio,39045,96,95,2,2
+2020-04-17,Madison,Ohio,39097,29,27,3,3
+2020-04-17,Murray,Oklahoma,40099,2,1,0,0
+2020-04-17,Unknown,Rhode Island,,840,832,98,98
+2020-04-17,Lexington,South Carolina,45063,267,254,8,9
+2020-04-17,Pickens,South Carolina,45077,37,36,0,0
+2020-04-17,Jefferson,Tennessee,47089,16,14,1,0
+2020-04-17,Unknown,Utah,,3,2,1,1
+2020-04-17,Wise,Virginia,51195,18,17,1,1
+2020-04-17,Clallam,Washington,53009,15,14,0,0
+2020-04-17,Douglas,Washington,53017,32,30,1,1
+2020-04-17,Dane,Wisconsin,55025,352,351,16,16
+2020-04-18,Autauga,Alabama,01001,26,25,2,2
+2020-04-18,Butler,Alabama,01013,16,13,0,0
+2020-04-18,Cullman,Alabama,01043,53,42,1,0
+2020-04-18,Escambia,Alabama,01053,14,12,0,0
+2020-04-18,Etowah,Alabama,01055,88,93,8,7
+2020-04-18,Franklin,Alabama,01059,18,17,1,0
+2020-04-18,Houston,Alabama,01069,64,63,3,2
+2020-04-18,Madison,Alabama,01089,216,197,4,4
+2020-04-18,Marion,Alabama,01093,62,60,5,5
+2020-04-18,Monroe,Alabama,01099,7,8,1,0
+2020-04-18,Montgomery,Alabama,01101,207,217,5,3
+2020-04-18,Morgan,Alabama,01103,47,45,0,0
+2020-04-18,Randolph,Alabama,01111,51,51,4,3
+2020-04-18,Shelby,Alabama,01117,248,257,8,7
+2020-04-18,Tuscaloosa,Alabama,01125,153,141,0,0
+2020-04-18,Lafayette,Arkansas,05073,5,4,0,0
+2020-04-18,Lonoke,Arkansas,05085,30,26,0,0
+2020-04-18,Leon,Florida,12073,173,168,1,1
+2020-04-18,Palm Beach,Florida,12099,2086,2136,115,114
+2020-04-18,Unknown,Florida,,4,3,0,0
+2020-04-18,Washington,Florida,12133,6,5,0,0
+2020-04-18,Baldwin,Georgia,13009,112,108,2,2
+2020-04-18,Unknown,Georgia,,264,245,0,0
+2020-04-18,Livingston,Illinois,17105,18,17,0,0
+2020-04-18,Jasper,Indiana,18073,22,21,1,1
+2020-04-18,LaGrange,Indiana,18087,16,15,1,1
+2020-04-18,Parke,Indiana,18121,8,7,0,0
+2020-04-18,Rush,Indiana,18139,20,19,1,1
+2020-04-18,Jefferson,Kansas,20087,6,5,0,0
+2020-04-18,Ballard,Kentucky,21007,4,3,0,0
+2020-04-18,Calloway,Kentucky,21035,22,21,1,1
+2020-04-18,Carter,Kentucky,21043,5,4,0,0
+2020-04-18,Garrard,Kentucky,21079,3,1,0,0
+2020-04-18,Caldwell,Louisiana,22021,19,15,0,0
+2020-04-18,Aroostook,Maine,23003,3,2,0,0
+2020-04-18,Unknown,Maine,,2,1,0,0
+2020-04-18,Unknown,Massachusetts,,760,733,12,13
+2020-04-18,Chippewa,Michigan,26033,1,1,1,0
+2020-04-18,Mackinac,Michigan,26097,5,4,0,0
+2020-04-18,Oceana,Michigan,26127,4,3,1,1
+2020-04-18,St. Clair,Michigan,26147,236,241,8,7
+2020-04-18,Lyon,Minnesota,27083,6,5,0,0
+2020-04-18,Amite,Mississippi,28005,17,16,1,1
+2020-04-18,Benton,Mississippi,28009,6,5,0,0
+2020-04-18,Webster,Mississippi,28155,17,15,1,1
+2020-04-18,Callaway,Missouri,29027,21,20,1,1
+2020-04-18,Crawford,Missouri,29055,6,5,0,0
+2020-04-18,Jefferson,Missouri,29099,179,183,4,3
+2020-04-18,St. Francois,Missouri,29187,24,23,1,1
+2020-04-18,Unknown,Missouri,,4,2,0,0
+2020-04-18,Stanton,Nebraska,31167,2,1,0,0
+2020-04-18,Unknown,Nevada,,80,6,0,3
+2020-04-18,Carroll,New Hampshire,33003,32,30,0,0
+2020-04-18,Unknown,New Hampshire,,2,0,0,1
+2020-04-18,Unknown,New Jersey,,719,748,3,2
+2020-04-18,Alamance,North Carolina,37001,48,47,0,0
+2020-04-18,Caldwell,North Carolina,37027,22,21,0,0
+2020-04-18,Hertford,North Carolina,37091,7,6,1,1
+2020-04-18,Lincoln,North Carolina,37109,20,19,0,0
+2020-04-18,Stark,North Dakota,38089,39,38,2,2
+2020-04-18,Huron,Ohio,39077,16,15,1,1
+2020-04-18,Lincoln,Oklahoma,40081,11,10,0,0
+2020-04-18,Yamhill,Oregon,41071,35,34,6,6
+2020-04-18,Unknown,Rhode Island,,832,815,98,117
+2020-04-18,Georgetown,South Carolina,45043,34,32,2,2
+2020-04-18,Marion,South Carolina,45067,14,13,1,1
+2020-04-18,Blanco,Texas,48031,5,4,0,0
+2020-04-18,Burleson,Texas,48051,9,8,0,0
+2020-04-18,Johnson,Texas,48251,45,44,1,1
+2020-04-18,Waller,Texas,48473,23,22,0,0
+2020-04-18,Millard,Utah,49027,6,5,0,0
+2020-04-18,Unknown,Utah,,2,0,1,1
+2020-04-18,Washington,Virginia,51191,28,27,0,0
+2020-04-18,Dodge,Wisconsin,55027,20,19,1,1
+2020-04-19,Dougherty,Georgia,13095,1409,1425,91,90
+2020-04-19,Mitchell,Georgia,13205,212,203,23,23
+2020-04-19,Worth,Georgia,13321,119,122,5,4
+2020-04-19,Crawford,Illinois,17033,5,4,0,0
+2020-04-19,Macon,Illinois,17115,55,54,7,7
+2020-04-19,Tazewell,Illinois,17179,41,26,3,3
+2020-04-19,Rush,Indiana,18139,19,18,1,1
+2020-04-19,Keokuk,Iowa,19107,4,3,0,0
+2020-04-19,Jessamine,Kentucky,21113,33,32,0,0
+2020-04-19,Nelson,Kentucky,21179,14,13,0,0
+2020-04-19,Oldham,Kentucky,21185,23,22,0,0
+2020-04-19,Todd,Kentucky,21219,11,9,0,0
+2020-04-19,Unknown,Maryland,,0,0,96,69
+2020-04-19,Unknown,Michigan,,643,636,22,21
+2020-04-19,Fillmore,Minnesota,27045,11,10,0,0
+2020-04-19,Amite,Mississippi,28005,16,17,1,0
+2020-04-19,Lincoln,Mississippi,28085,102,101,6,6
+2020-04-19,Marshall,Mississippi,28093,39,38,2,2
+2020-04-19,Maries,Missouri,29125,2,1,0,0
+2020-04-19,Ripley,Missouri,29181,4,3,0,0
+2020-04-19,Unknown,Missouri,,2,1,0,0
+2020-04-19,Knox,Nebraska,31107,2,1,0,0
+2020-04-19,Unknown,New Jersey,,748,585,2,0
+2020-04-19,Person,North Carolina,37145,16,15,0,0
+2020-04-19,Williams,North Dakota,38105,10,9,0,0
+2020-04-19,Clark,Ohio,39023,26,25,0,0
+2020-04-19,Greene,Ohio,39057,39,38,2,2
+2020-04-19,Hancock,Ohio,39063,30,29,1,1
+2020-04-19,Beaver,Oklahoma,40007,2,1,0,0
+2020-04-19,Klamath,Oregon,41035,31,30,0,0
+2020-04-19,Lawrence,Pennsylvania,42073,60,59,5,5
+2020-04-19,Montour,Pennsylvania,42093,49,48,0,0
+2020-04-19,Unknown,Puerto Rico,,1118,1213,60,41
+2020-04-19,Unknown,Rhode Island,,815,715,117,130
+2020-04-19,Anderson,South Carolina,45007,133,132,5,5
+2020-04-19,Jasper,South Carolina,45053,16,15,0,1
+2020-04-19,Newberry,South Carolina,45071,23,21,1,1
+2020-04-19,Bradley,Tennessee,47011,38,37,1,1
+2020-04-19,Jackson,Tennessee,47087,11,6,0,0
+2020-04-19,Tipton,Tennessee,47167,57,56,0,0
+2020-04-19,Windham,Vermont,50025,63,62,2,2
+2020-04-19,Newport News city,Virginia,51700,102,101,1,1
+2020-04-19,Powhatan,Virginia,51145,9,8,0,0
+2020-04-19,Unknown,Virginia,,1,2,114,89
+2020-04-19,Jefferson,Washington,53031,29,28,0,0
+2020-04-19,Unknown,Washington,,233,1,0,0
+2020-04-19,Chippewa,Wisconsin,55017,21,20,0,0
+2020-04-20,Autauga,Alabama,01001,27,28,2,1
+2020-04-20,Chambers,Alabama,01017,246,257,14,13
+2020-04-20,Conecuh,Alabama,01035,10,9,0,0
+2020-04-20,Covington,Alabama,01039,22,24,1,0
+2020-04-20,Fayette,Alabama,01057,4,3,0,0
+2020-04-20,Marshall,Alabama,01095,150,167,4,3
+2020-04-20,Shelby,Alabama,01117,269,273,7,6
+2020-04-20,Tallapoosa,Alabama,01123,195,193,12,12
+2020-04-20,Yavapai,Arizona,04025,72,71,1,1
+2020-04-20,Unknown,Arkansas,,46,43,0,0
+2020-04-20,La Plata,Colorado,08067,52,51,0,0
+2020-04-20,Unknown,Connecticut,,529,514,4,4
+2020-04-20,Union,Florida,12125,3,2,0,0
+2020-04-20,Bleckley,Georgia,13023,6,5,0,0
+2020-04-20,Camden,Georgia,13039,28,27,0,0
+2020-04-20,Decatur,Georgia,13087,62,60,1,1
+2020-04-20,Pulaski,Georgia,13235,18,17,1,1
+2020-04-20,Adams,Illinois,17001,34,29,0,0
+2020-04-20,Macoupin,Illinois,17117,21,20,0,0
+2020-04-20,Tazewell,Illinois,17179,26,24,3,3
+2020-04-20,Jackson,Indiana,18071,90,89,0,0
+2020-04-20,Unknown,Kentucky,,38,35,0,0
+2020-04-20,Unknown,Maine,,2,1,0,0
+2020-04-20,Allegany,Maryland,24001,33,32,1,1
+2020-04-20,Berkshire,Massachusetts,25003,387,387,29,28
+2020-04-20,Unknown,Massachusetts,,815,855,13,9
+2020-04-20,Ionia,Michigan,26067,24,23,2,2
+2020-04-20,Kent,Michigan,26081,503,550,25,24
+2020-04-20,Leelanau,Michigan,26089,8,7,0,0
+2020-04-20,Oscoda,Michigan,26135,5,4,0,1
+2020-04-20,Sanilac,Michigan,26151,33,32,3,3
+2020-04-20,Freeborn,Minnesota,27047,34,33,0,0
+2020-04-20,Mower,Minnesota,27099,27,26,0,0
+2020-04-20,Rice,Minnesota,27131,8,7,1,1
+2020-04-20,Alcorn,Mississippi,28003,8,7,0,0
+2020-04-20,Moniteau,Missouri,29135,26,21,0,0
+2020-04-20,Perry,Missouri,29157,39,38,0,0
+2020-04-20,Scott,Missouri,29201,51,50,1,1
+2020-04-20,Carson City,Nevada,32510,59,28,0,0
+2020-04-20,Buncombe,North Carolina,37021,46,45,3,3
+2020-04-20,Cleveland,North Carolina,37045,44,43,1,1
+2020-04-20,Edgecombe,North Carolina,37065,58,57,1,1
+2020-04-20,Ashland,Ohio,39005,6,5,0,0
+2020-04-20,Crawford,Ohio,39033,41,37,0,0
+2020-04-20,Delaware,Ohio,39041,123,122,3,3
+2020-04-20,Franklin,Ohio,39049,1513,1510,29,35
+2020-04-20,Fulton,Ohio,39051,17,16,0,0
+2020-04-20,Jackson,Ohio,39079,5,4,0,0
+2020-04-20,Licking,Ohio,39089,102,100,4,4
+2020-04-20,Noble,Ohio,39121,6,4,0,0
+2020-04-20,Richland,Ohio,39139,65,64,1,1
+2020-04-20,Ross,Ohio,39141,36,29,0,0
+2020-04-20,Sandusky,Ohio,39143,18,17,2,2
+2020-04-20,Scioto,Ohio,39145,9,6,0,0
+2020-04-20,Shelby,Ohio,39149,29,28,0,0
+2020-04-20,McClain,Oklahoma,40087,23,22,0,0
+2020-04-20,Jackson,Oregon,41029,49,48,0,0
+2020-04-20,Dorchester,South Carolina,45035,88,83,1,1
+2020-04-20,Newberry,South Carolina,45071,21,20,1,1
+2020-04-20,Pickens,South Carolina,45077,39,38,0,0
+2020-04-20,Knox,Tennessee,47093,194,193,4,4
+2020-04-20,Dallam,Texas,48111,3,2,0,0
+2020-04-20,Walker,Texas,48471,77,73,0,0
+2020-04-20,Duchesne,Utah,49013,5,4,0,0
+2020-04-20,Tooele,Utah,49045,42,41,0,0
+2020-04-20,San Juan,Washington,53055,15,14,0,0
+2020-04-20,Mason,West Virginia,54053,11,10,0,0
+2020-04-20,Walworth,Wisconsin,55127,89,86,6,6
+2020-04-21,Unknown,Colorado,,126,105,1,1
+2020-04-21,Unknown,Connecticut,,514,503,4,4
+2020-04-21,Unknown,Delaware,,31,30,0,0
+2020-04-21,Santa Rosa,Florida,12113,140,139,6,6
+2020-04-21,Butts,Georgia,13035,80,81,2,1
+2020-04-21,Decatur,Georgia,13087,60,53,1,1
+2020-04-21,Floyd,Georgia,13115,126,127,9,8
+2020-04-21,Habersham,Georgia,13137,99,112,3,2
+2020-04-21,Harris,Georgia,13145,45,44,2,2
+2020-04-21,Henry,Georgia,13151,382,384,11,10
+2020-04-21,Turner,Georgia,13287,59,58,4,4
+2020-04-21,Union,Georgia,13291,16,15,1,1
+2020-04-21,Unknown,Georgia,,296,483,2,0
+2020-04-21,Christian,Illinois,17021,27,26,5,5
+2020-04-21,Jo Daviess,Illinois,17085,12,11,0,0
+2020-04-21,Clay,Indiana,18021,20,19,0,0
+2020-04-21,Hancock,Indiana,18059,151,149,7,7
+2020-04-21,Henry,Indiana,18065,31,28,1,1
+2020-04-21,Howard,Indiana,18067,72,71,4,4
+2020-04-21,Jay,Indiana,18075,10,9,0,0
+2020-04-21,Story,Iowa,19169,20,19,0,0
+2020-04-21,Webster,Iowa,19187,4,3,0,0
+2020-04-21,Adair,Kentucky,21001,54,53,4,4
+2020-04-21,Bourbon,Kentucky,21017,8,7,1,1
+2020-04-21,Daviess,Kentucky,21059,130,125,3,3
+2020-04-21,Franklin,Kentucky,21073,21,13,0,0
+2020-04-21,Henry,Kentucky,21103,4,3,0,0
+2020-04-21,Lewis,Kentucky,21135,3,2,0,0
+2020-04-21,Muhlenberg,Kentucky,21177,76,75,2,2
+2020-04-21,Taylor,Kentucky,21217,5,4,0,0
+2020-04-21,Woodford,Kentucky,21239,19,18,0,0
+2020-04-21,Iberville,Louisiana,22047,282,281,21,21
+2020-04-21,Carroll,Maryland,24013,335,330,35,38
+2020-04-21,Worcester,Maryland,24047,34,33,0,0
+2020-04-21,Unknown,Massachusetts,,855,929,9,8
+2020-04-21,Chippewa,Michigan,26033,2,1,0,0
+2020-04-21,Delta,Michigan,26041,13,12,1,2
+2020-04-21,Huron,Michigan,26063,10,9,1,0
+2020-04-21,Oscoda,Michigan,26135,4,4,1,0
+2020-04-21,Tuscola,Michigan,26157,63,63,12,11
+2020-04-21,Unknown,Michigan,,644,698,23,22
+2020-04-21,Red Lake,Minnesota,27125,2,1,0,0
+2020-04-21,Jefferson,Mississippi,28063,6,5,0,0
+2020-04-21,Winston,Mississippi,28159,36,34,0,0
+2020-04-21,Dunklin,Missouri,29069,19,18,2,2
+2020-04-21,Greene,Missouri,29077,85,84,8,8
+2020-04-21,Pulaski,Missouri,29169,31,30,1,1
+2020-04-21,Vernon,Missouri,29217,4,3,0,0
+2020-04-21,Cass,Nebraska,31025,5,4,0,0
+2020-04-21,Unknown,Nebraska,,10,6,0,0
+2020-04-21,Unknown,Nevada,,34,10,4,0
+2020-04-21,Unknown,New Jersey,,660,599,1,0
+2020-04-21,Carteret,North Carolina,37031,22,21,2,2
+2020-04-21,Johnston,North Carolina,37101,123,122,9,9
+2020-04-21,Rutherford,North Carolina,37161,84,80,2,3
+2020-04-21,Sampson,North Carolina,37163,22,21,0,0
+2020-04-21,Surry,North Carolina,37171,17,12,0,0
+2020-04-21,Transylvania,North Carolina,37175,8,7,0,0
+2020-04-21,Champaign,Ohio,39021,8,7,1,1
+2020-04-21,Hancock,Ohio,39063,30,29,1,1
+2020-04-21,Noble,Ohio,39121,4,3,0,0
+2020-04-21,Seneca,Ohio,39147,13,11,1,1
+2020-04-21,Tillman,Oklahoma,40141,2,1,0,0
+2020-04-21,Benton,Oregon,41003,28,27,5,5
+2020-04-21,Yamhill,Oregon,41071,35,34,6,6
+2020-04-21,Unknown,Puerto Rico,,1252,915,42,43
+2020-04-21,Anderson,South Carolina,45007,134,132,5,5
+2020-04-21,Georgetown,South Carolina,45043,34,33,2,2
+2020-04-21,Lee,South Carolina,45061,42,41,5,5
+2020-04-21,Carroll,Tennessee,47017,15,14,1,1
+2020-04-21,Humphreys,Tennessee,47085,7,6,0,0
+2020-04-21,Putnam,Tennessee,47141,96,95,3,3
+2020-04-21,Warren,Tennessee,47177,5,4,0,0
+2020-04-21,Fayette,Texas,48149,15,14,0,0
+2020-04-21,Franklin,Vermont,50011,93,92,3,4
+2020-04-21,Unknown,Vermont,,11,3,0,0
+2020-04-21,Newport News city,Virginia,51700,102,101,1,6
+2020-04-21,Williamsburg city,Virginia,51830,19,15,1,1
+2020-04-21,York,Virginia,51199,44,43,1,1
+2020-04-21,Morgan,West Virginia,54065,8,7,0,0
+2020-04-21,Pendleton,West Virginia,54071,2,1,0,0
+2020-04-21,Winnebago,Wisconsin,55139,41,40,1,1
+2020-04-22,Cullman,Alabama,01043,45,44,0,0
+2020-04-22,Lamar,Alabama,01075,9,8,0,0
+2020-04-22,Lauderdale,Alabama,01077,25,25,4,3
+2020-04-22,Limestone,Alabama,01083,40,38,0,0
+2020-04-22,Marshall,Alabama,01095,195,241,5,4
+2020-04-22,Morgan,Alabama,01103,51,50,0,0
+2020-04-22,Walker,Alabama,01127,91,90,0,0
+2020-04-22,Howard,Arkansas,05061,14,13,1,0
+2020-04-22,Nevada,California,06057,38,36,1,1
+2020-04-22,Pitkin,Colorado,08097,58,57,2,2
+2020-04-22,Unknown,Colorado,,105,95,1,0
+2020-04-22,Unknown,Delaware,,30,28,0,0
+2020-04-22,Columbia,Florida,12023,43,42,0,0
+2020-04-22,Lee,Florida,12071,794,793,29,29
+2020-04-22,Unknown,Florida,,4,0,0,34
+2020-04-22,Baker,Georgia,13007,20,18,2,2
+2020-04-22,Carroll,Georgia,13045,313,304,11,11
+2020-04-22,Coweta,Georgia,13077,169,168,4,4
+2020-04-22,Decatur,Georgia,13087,53,50,1,1
+2020-04-22,Fannin,Georgia,13111,19,20,1,0
+2020-04-22,Lamar,Georgia,13171,29,28,0,0
+2020-04-22,Tift,Georgia,13277,92,93,4,3
+2020-04-22,Marion,Illinois,17121,25,24,0,0
+2020-04-22,Tazewell,Illinois,17179,30,25,3,3
+2020-04-22,Carroll,Indiana,18015,8,7,1,1
+2020-04-22,Jackson,Indiana,18071,98,97,0,0
+2020-04-22,Jasper,Indiana,18073,26,24,1,1
+2020-04-22,Rush,Indiana,18139,22,21,1,1
+2020-04-22,Warrick,Indiana,18173,69,68,5,8
+2020-04-22,Warren,Iowa,19181,20,18,0,0
+2020-04-22,Webster,Iowa,19187,3,2,0,0
+2020-04-22,Tangipahoa,Louisiana,22105,489,494,19,18
+2020-04-22,Terrebonne,Louisiana,22109,346,350,25,24
+2020-04-22,Unknown,Louisiana,,59,60,2,1
+2020-04-22,Unknown,Massachusetts,,929,854,8,9
+2020-04-22,Branch,Michigan,26023,43,42,2,2
+2020-04-22,Mecosta,Michigan,26107,14,13,1,1
+2020-04-22,Midland,Michigan,26111,48,47,3,3
+2020-04-22,Clearwater,Minnesota,27029,3,2,0,0
+2020-04-22,Benton,Mississippi,28009,9,8,0,0
+2020-04-22,Franklin,Mississippi,28037,17,16,0,0
+2020-04-22,Harrison,Mississippi,28047,151,150,5,6
+2020-04-22,Montgomery,Mississippi,28097,17,16,1,1
+2020-04-22,Wayne,Mississippi,28153,12,11,0,0
+2020-04-22,Cole,Missouri,29051,46,45,1,1
+2020-04-22,Greene,Missouri,29077,84,83,8,8
+2020-04-22,Newton,Missouri,29145,10,9,0,1
+2020-04-22,Unknown,New Jersey,,599,591,0,2
+2020-04-22,Person,North Carolina,37145,18,17,0,0
+2020-04-22,Washington,North Carolina,37187,22,21,2,2
+2020-04-22,Sioux,North Dakota,38085,2,1,0,0
+2020-04-22,Clermont,Ohio,39025,74,73,3,2
+2020-04-22,Crawford,Ohio,39033,37,36,0,0
+2020-04-22,Lawrence,Ohio,39087,23,22,0,0
+2020-04-22,Comanche,Oklahoma,40031,72,71,1,1
+2020-04-22,Bradford,Pennsylvania,42015,31,29,5,5
+2020-04-22,Centre,Pennsylvania,42027,77,76,2,2
+2020-04-22,Newberry,South Carolina,45071,22,21,1,1
+2020-04-22,DeKalb,Tennessee,47041,12,10,0,0
+2020-04-22,Scott,Tennessee,47151,12,11,0,0
+2020-04-22,Caldwell,Texas,48055,9,8,0,0
+2020-04-22,Taylor,Texas,48441,164,164,3,2
+2020-04-22,New Kent,Virginia,51127,20,20,2,1
+2020-04-22,Shenandoah,Virginia,51171,45,53,1,0
+2020-04-22,Williamsburg city,Virginia,51830,15,14,1,1
+2020-04-23,Bibb,Alabama,01007,34,33,0,0
+2020-04-23,Cherokee,Alabama,01019,13,12,0,0
+2020-04-23,Dallas,Alabama,01047,30,29,2,2
+2020-04-23,Hale,Alabama,01065,36,37,1,0
+2020-04-23,Lee,Alabama,01081,331,340,21,20
+2020-04-23,Marengo,Alabama,01091,40,38,3,3
+2020-04-23,Mobile,Alabama,01097,759,810,39,38
+2020-04-23,Randolph,Alabama,01111,60,58,4,4
+2020-04-23,Tuscaloosa,Alabama,01125,165,173,1,0
+2020-04-23,Walker,Alabama,01127,90,89,0,0
+2020-04-23,Wilcox,Alabama,01131,50,52,1,0
+2020-04-23,Archuleta,Colorado,08007,9,8,0,0
+2020-04-23,Unknown,Connecticut,,503,522,7,6
+2020-04-23,Unknown,Delaware,,28,3,0,0
+2020-04-23,Hernando,Florida,12053,84,83,3,3
+2020-04-23,Santa Rosa,Florida,12113,144,141,6,6
+2020-04-23,Unknown,Florida,,0,8,34,0
+2020-04-23,Chatham,Georgia,13051,193,199,7,6
+2020-04-23,Dougherty,Georgia,13095,1479,1478,106,109
+2020-04-23,Greene,Georgia,13133,50,49,1,1
+2020-04-23,Stewart,Georgia,13259,18,17,0,0
+2020-04-23,Telfair,Georgia,13271,17,16,0,0
+2020-04-23,Unknown,Georgia,,576,361,0,0
+2020-04-23,Marshall,Indiana,18099,26,25,1,1
+2020-04-23,Wells,Indiana,18179,6,5,0,0
+2020-04-23,Madison,Iowa,19121,4,3,1,1
+2020-04-23,Bourbon,Kansas,20011,7,6,1,1
+2020-04-23,Grant,Kentucky,21081,19,18,3,3
+2020-04-23,Wayne,Kentucky,21231,7,6,0,0
+2020-04-23,Beauregard,Louisiana,22011,36,35,2,2
+2020-04-23,Grant,Louisiana,22043,12,11,0,0
+2020-04-23,Sabine,Louisiana,22085,14,13,0,0
+2020-04-23,St. James,Louisiana,22093,231,235,18,17
+2020-04-23,Unknown,Louisiana,,60,62,1,0
+2020-04-23,Unknown,Massachusetts,,854,737,9,10
+2020-04-23,Clinton,Michigan,26037,106,105,7,8
+2020-04-23,Emmet,Michigan,26047,22,21,2,2
+2020-04-23,Montmorency,Michigan,26119,6,5,0,0
+2020-04-23,Van Buren,Michigan,26159,36,35,2,2
+2020-04-23,Wilkinson,Mississippi,28157,66,65,6,6
+2020-04-23,Greene,Missouri,29077,83,82,8,8
+2020-04-23,Lincoln,Missouri,29113,37,35,1,1
+2020-04-23,Unknown,Missouri,,1,1,1,0
+2020-04-23,Unknown,Nevada,,10,1,11,5
+2020-04-23,Unknown,New Hampshire,,15,11,1,1
+2020-04-23,Essex,New York,36031,28,22,0,0
+2020-04-23,Cumberland,North Carolina,37051,129,137,6,5
+2020-04-23,Johnston,North Carolina,37101,122,121,10,10
+2020-04-23,Erie,Ohio,39043,44,43,3,3
+2020-04-23,Huron,Ohio,39077,25,24,2,1
+2020-04-23,Paulding,Ohio,39125,8,7,0,0
+2020-04-23,Seminole,Oklahoma,40133,9,8,1,1
+2020-04-23,Allegheny,Pennsylvania,42003,1088,1149,74,69
+2020-04-23,Armstrong,Pennsylvania,42005,39,32,2,2
+2020-04-23,Beaver,Pennsylvania,42007,317,319,47,46
+2020-04-23,Bradford,Pennsylvania,42015,29,28,5,5
+2020-04-23,Butler,Pennsylvania,42019,164,164,7,6
+2020-04-23,Cambria,Pennsylvania,42021,21,20,2,2
+2020-04-23,Chester,Pennsylvania,42029,977,1017,67,64
+2020-04-23,Franklin,Pennsylvania,42055,152,151,10,10
+2020-04-23,Luzerne,Pennsylvania,42079,1848,1880,60,58
+2020-04-23,Monroe,Pennsylvania,42089,1015,1024,48,46
+2020-04-23,Montgomery,Pennsylvania,42091,3294,3395,230,204
+2020-04-23,Tioga,Pennsylvania,42117,15,14,2,2
+2020-04-23,Warren,Pennsylvania,42123,2,1,1,1
+2020-04-23,York,Pennsylvania,42133,531,546,14,13
+2020-04-23,Cherokee,South Carolina,45021,14,13,0,0
+2020-04-23,Dorchester,South Carolina,45035,85,84,1,1
+2020-04-23,Lancaster,South Carolina,45057,80,79,3,3
+2020-04-23,Campbell,Tennessee,47013,14,13,1,1
+2020-04-23,Cannon,Tennessee,47015,11,10,0,0
+2020-04-23,Decatur,Tennessee,47039,5,4,0,0
+2020-04-23,Gibson,Tennessee,47053,33,32,1,1
+2020-04-23,Jefferson,Tennessee,47089,17,16,0,0
+2020-04-23,Marshall,Tennessee,47117,24,22,1,1
+2020-04-23,Hunt,Texas,48231,38,37,2,2
+2020-04-23,Liberty,Texas,48291,37,36,0,0
+2020-04-23,Maverick,Texas,48323,15,14,0,0
+2020-04-23,Waller,Texas,48473,27,25,0,0
+2020-04-23,Unknown,Utah,,0,0,2,1
+2020-04-23,Franklin,Vermont,50011,92,90,4,5
+2020-04-23,San Juan,Washington,53055,16,14,0,0
+2020-04-23,Monongalia,West Virginia,54061,90,89,5,4
+2020-04-23,Roane,West Virginia,54087,5,4,0,0
+2020-04-24,Clarke,Alabama,01025,25,24,1,1
+2020-04-24,Coffee,Alabama,01031,80,87,1,0
+2020-04-24,Houston,Alabama,01069,78,76,3,3
+2020-04-24,Lauderdale,Alabama,01077,25,25,3,2
+2020-04-24,Madison,Alabama,01089,205,202,4,4
+2020-04-24,Russell,Alabama,01113,54,53,0,0
+2020-04-24,Gila,Arizona,04007,12,11,0,0
+2020-04-24,San Diego,California,06073,2643,2826,112,102
+2020-04-24,Unknown,Colorado,,108,103,0,0
+2020-04-24,Unknown,Connecticut,,522,507,6,2
+2020-04-24,Duval,Florida,12031,956,955,17,18
+2020-04-24,Butts,Georgia,13035,126,125,2,2
+2020-04-24,Decatur,Georgia,13087,61,59,1,1
+2020-04-24,Dougherty,Georgia,13095,1478,1465,109,108
+2020-04-24,Irwin,Georgia,13155,17,15,1,1
+2020-04-24,Johnson,Georgia,13167,38,36,1,1
+2020-04-24,Lee,Georgia,13177,298,297,19,18
+2020-04-24,Miller,Georgia,13201,26,24,0,0
+2020-04-24,Mitchell,Georgia,13205,290,288,24,24
+2020-04-24,Terrell,Georgia,13273,162,165,18,17
+2020-04-24,Thomas,Georgia,13275,158,157,16,16
+2020-04-24,Worth,Georgia,13321,142,138,9,9
+2020-04-24,De Witt,Illinois,17039,2,1,0,0
+2020-04-24,Ford,Illinois,17053,8,7,1,1
+2020-04-24,Benton,Indiana,18007,6,5,0,0
+2020-04-24,Randolph,Indiana,18135,14,13,2,2
+2020-04-24,Jefferson,Iowa,19101,7,6,0,0
+2020-04-24,Plymouth,Iowa,19149,9,8,0,0
+2020-04-24,Unknown,Iowa,,3,0,7,1
+2020-04-24,Avoyelles,Louisiana,22009,71,69,7,7
+2020-04-24,East Feliciana,Louisiana,22037,106,105,10,10
+2020-04-24,Pointe Coupee,Louisiana,22077,86,88,11,10
+2020-04-24,Webster,Louisiana,22119,81,80,4,4
+2020-04-24,Unknown,Maryland,,0,0,97,92
+2020-04-24,Midland,Michigan,26111,51,50,3,3
+2020-04-24,Van Buren,Michigan,26159,35,34,2,2
+2020-04-24,Amite,Mississippi,28005,24,23,1,0
+2020-04-24,Franklin,Mississippi,28037,17,16,0,0
+2020-04-24,Wayne,Mississippi,28153,17,16,0,0
+2020-04-24,Butler,Missouri,29023,26,25,0,0
+2020-04-24,Lafayette,Missouri,29107,33,32,1,1
+2020-04-24,McDonald,Missouri,29119,5,4,0,0
+2020-04-24,Pemiscot,Missouri,29155,18,17,1,1
+2020-04-24,Unknown,New Hampshire,,11,3,1,1
+2020-04-24,Atlantic,New Jersey,34001,544,566,30,29
+2020-04-24,Unknown,New Jersey,,1108,532,2,0
+2020-04-24,Dare,North Carolina,37055,12,11,1,1
+2020-04-24,Granville,North Carolina,37077,123,121,5,5
+2020-04-24,Person,North Carolina,37145,19,18,0,0
+2020-04-24,Rockingham,North Carolina,37157,22,21,2,2
+2020-04-24,Athens,Ohio,39009,4,3,1,1
+2020-04-24,Fairfield,Ohio,39045,109,108,2,2
+2020-04-24,Montgomery,Ohio,39113,250,251,12,9
+2020-04-24,Pickaway,Ohio,39129,1661,1659,5,5
+2020-04-24,Woodward,Oklahoma,40153,2,1,0,0
+2020-04-24,Douglas,Oregon,41019,24,23,0,0
+2020-04-24,Florence,South Carolina,45041,195,225,8,7
+2020-04-24,Greenville,South Carolina,45045,558,557,13,15
+2020-04-24,Robertson,Tennessee,47147,126,125,0,0
+2020-04-24,Stewart,Tennessee,47161,7,6,0,0
+2020-04-24,Falls Church city,Virginia,51610,25,24,2,2
+2020-04-24,Putnam,West Virginia,54079,17,16,0,0
+2020-04-24,Roane,West Virginia,54087,4,3,0,0
+2020-04-24,Kewaunee,Wisconsin,55061,10,9,1,1
+2020-04-25,Graham,Arizona,04009,7,6,0,0
+2020-04-25,La Paz,Arizona,04012,8,7,1,1
+2020-04-25,Columbia,Arkansas,05027,6,5,0,0
+2020-04-25,Imperial,California,06025,251,251,8,7
+2020-04-25,Tehama,California,06103,1,1,1,0
+2020-04-25,Chaffee,Colorado,08015,66,65,13,12
+2020-04-25,Douglas,Colorado,08035,414,425,21,19
+2020-04-25,El Paso,Colorado,08041,853,862,72,66
+2020-04-25,Pitkin,Colorado,08097,59,59,3,2
+2020-04-25,Weld,Colorado,08123,1353,1430,82,78
+2020-04-25,Middlesex,Connecticut,09007,561,576,63,62
+2020-04-25,Unknown,Delaware,,4,3,0,0
+2020-04-25,Glynn,Georgia,13127,52,51,1,1
+2020-04-25,Mitchell,Georgia,13205,288,287,24,25
+2020-04-25,Morgan,Georgia,13211,25,24,0,0
+2020-04-25,Maui,Hawaii,15009,113,112,5,5
+2020-04-25,Washington,Idaho,16087,2,1,0,0
+2020-04-25,Fulton,Illinois,17057,3,2,0,0
+2020-04-25,Shelby,Illinois,17173,10,9,0,0
+2020-04-25,Jasper,Indiana,18073,34,32,1,1
+2020-04-25,Morgan,Indiana,18109,128,133,4,3
+2020-04-25,Buchanan,Iowa,19019,13,12,0,0
+2020-04-25,O'Brien,Iowa,19141,5,4,0,0
+2020-04-25,St. James,Louisiana,22093,237,237,19,18
+2020-04-25,West Baton Rouge,Louisiana,22121,93,92,13,15
+2020-04-25,Unknown,Massachusetts,,791,753,12,13
+2020-04-25,Barry,Michigan,26015,29,28,1,1
+2020-04-25,Crawford,Michigan,26039,46,45,3,3
+2020-04-25,Lapeer,Michigan,26087,163,162,23,23
+2020-04-25,Montmorency,Michigan,26119,6,5,0,0
+2020-04-25,Shiawassee,Michigan,26155,130,129,6,7
+2020-04-25,Unknown,Minnesota,,6,5,0,0
+2020-04-25,Panola,Mississippi,28107,38,36,2,2
+2020-04-25,Webster,Mississippi,28155,17,16,1,1
+2020-04-25,Boone,Missouri,29019,99,98,1,1
+2020-04-25,Greene,Missouri,29077,84,83,8,8
+2020-04-25,Polk,Nebraska,31143,6,5,0,0
+2020-04-25,Unknown,Nevada,,43,16,5,0
+2020-04-25,Sullivan,New Hampshire,33019,11,10,1,1
+2020-04-25,Polk,North Carolina,37149,13,12,0,0
+2020-04-25,Montgomery,Ohio,39113,251,256,9,8
+2020-04-25,Muskingum,Ohio,39119,12,11,0,0
+2020-04-25,Williams,Ohio,39171,28,27,1,1
+2020-04-25,Pittsburg,Oklahoma,40121,22,21,2,2
+2020-04-25,Dauphin,Pennsylvania,42043,468,492,19,18
+2020-04-25,Unknown,Rhode Island,,1132,1198,182,96
+2020-04-25,Anderson,South Carolina,45007,140,138,6,6
+2020-04-25,Jefferson,Texas,48245,244,243,16,18
+2020-04-25,Unknown,Utah,,1,0,1,1
+2020-04-25,Amherst,Virginia,51009,10,9,1,0
+2020-04-25,Charlotte,Virginia,51037,8,7,0,0
+2020-04-25,New Kent,Virginia,51127,20,20,2,1
+2020-04-25,Raleigh,West Virginia,54081,9,8,0,0
+2020-04-25,Wood,West Virginia,54107,36,35,2,2
+2020-04-25,Marinette,Wisconsin,55075,8,7,1,1
+2020-04-25,Sheboygan,Wisconsin,55117,45,44,2,2
+2020-04-26,Craighead,Arkansas,05031,62,62,1,0
+2020-04-26,Unknown,Colorado,,131,172,2,0
+2020-04-26,Unknown,Connecticut,,521,522,2,0
+2020-04-26,Clay,Florida,12019,267,267,14,13
+2020-04-26,Dixie,Florida,12029,6,5,0,0
+2020-04-26,Hernando,Florida,12053,89,88,3,3
+2020-04-26,Pasco,Florida,12101,233,232,4,4
+2020-04-26,Barrow,Georgia,13013,111,108,3,3
+2020-04-26,Calhoun,Georgia,13037,86,85,3,3
+2020-04-26,Clarke,Georgia,13059,127,123,13,13
+2020-04-26,Clayton,Georgia,13063,642,641,21,21
+2020-04-26,Jackson,Georgia,13157,75,73,1,1
+2020-04-26,Madison,Georgia,13195,23,22,1,1
+2020-04-26,Morgan,Georgia,13211,24,22,0,0
+2020-04-26,Oconee,Georgia,13219,55,53,0,0
+2020-04-26,Oglethorpe,Georgia,13221,48,47,3,3
+2020-04-26,Rockdale,Georgia,13247,162,161,6,6
+2020-04-26,Twiggs,Georgia,13289,8,7,0,0
+2020-04-26,Unknown,Georgia,,608,622,1,0
+2020-04-26,Walton,Georgia,13297,97,95,3,3
+2020-04-26,Jasper,Illinois,17079,42,41,2,2
+2020-04-26,Jasper,Indiana,18073,32,28,1,1
+2020-04-26,Madison,Indiana,18095,395,394,43,45
+2020-04-26,Morgan,Indiana,18109,133,131,3,4
+2020-04-26,Keokuk,Iowa,19107,4,2,0,0
+2020-04-26,Christian,Kentucky,21047,86,85,3,3
+2020-04-26,Unknown,Kentucky,,35,13,5,0
+2020-04-26,Plaquemines,Louisiana,22075,168,168,16,15
+2020-04-26,West Baton Rouge,Louisiana,22121,92,91,15,15
+2020-04-26,Antrim,Michigan,26009,10,9,1,0
+2020-04-26,Manistee,Michigan,26101,12,11,0,0
+2020-04-26,Washtenaw,Michigan,26161,1002,1001,50,50
+2020-04-26,Isanti,Minnesota,27059,7,6,0,0
+2020-04-26,Clay,Mississippi,28025,32,31,2,2
+2020-04-26,DeSoto,Mississippi,28033,263,261,4,4
+2020-04-26,Jasper,Mississippi,28061,32,31,1,1
+2020-04-26,Jefferson,Missouri,29099,251,250,3,3
+2020-04-26,Hall,Nebraska,31079,811,877,21,19
+2020-04-26,Knox,Nebraska,31107,2,1,0,0
+2020-04-26,Merrimack,New Hampshire,33013,129,126,3,3
+2020-04-26,Unknown,New Hampshire,,6,5,1,1
+2020-04-26,Allen,Ohio,39003,108,106,17,18
+2020-04-26,Carroll,Ohio,39019,20,19,1,1
+2020-04-26,Erie,Ohio,39043,47,46,3,3
+2020-04-26,Madison,Ohio,39097,51,50,3,3
+2020-04-26,Pickaway,Ohio,39129,1662,1658,5,5
+2020-04-26,Johnston,Oklahoma,40069,4,3,0,0
+2020-04-26,Erie,Pennsylvania,42049,79,77,1,1
+2020-04-26,Providence,Rhode Island,44007,4916,5266,111,107
+2020-04-26,Unknown,Rhode Island,,1198,1109,96,111
+2020-04-26,Berkeley,South Carolina,45015,181,173,8,8
+2020-04-26,Sullivan,Tennessee,47163,48,47,1,1
+2020-04-26,Pecos,Texas,48371,8,6,0,0
+2020-04-26,Stevens,Washington,53065,10,9,1,1
+2020-04-26,Thurston,Washington,53067,101,100,1,1
+2020-04-26,Marathon,Wisconsin,55073,18,17,1,1
+2020-04-27,Calhoun,Alabama,01015,91,90,3,3
+2020-04-27,Monroe,Alabama,01099,12,11,1,1
+2020-04-27,Pickens,Alabama,01107,48,47,1,1
+2020-04-27,Clark,Arkansas,05019,28,27,0,0
+2020-04-27,Unknown,Arkansas,,216,203,0,0
+2020-04-27,Lincoln,Colorado,08073,4,3,0,0
+2020-04-27,Unknown,Colorado,,172,101,0,2
+2020-04-27,Unknown,Connecticut,,522,484,0,7
+2020-04-27,Banks,Georgia,13011,18,17,0,0
+2020-04-27,Berrien,Georgia,13019,16,15,0,0
+2020-04-27,Burke,Georgia,13033,77,74,3,3
+2020-04-27,Dade,Georgia,13083,16,14,1,1
+2020-04-27,Pike,Georgia,13231,39,38,2,2
+2020-04-27,Telfair,Georgia,13271,26,25,0,0
+2020-04-27,Tift,Georgia,13277,102,100,4,5
+2020-04-27,Unknown,Georgia,,622,600,0,2
+2020-04-27,Walker,Georgia,13295,59,58,0,0
+2020-04-27,Walton,Georgia,13297,95,100,3,2
+2020-04-27,Cass,Illinois,17017,27,25,0,0
+2020-04-27,Adams,Indiana,18001,8,7,1,1
+2020-04-27,Hendricks,Indiana,18063,644,643,29,29
+2020-04-27,Plymouth,Iowa,19149,11,10,0,0
+2020-04-27,Tama,Iowa,19171,265,259,7,7
+2020-04-27,Unknown,Kentucky,,13,11,0,0
+2020-04-27,Ascension,Louisiana,22005,568,574,36,35
+2020-04-27,Carroll,Maryland,24013,391,403,47,37
+2020-04-27,Unknown,Maryland,,0,0,119,71
+2020-04-27,Unknown,Massachusetts,,807,795,14,8
+2020-04-27,Arenac,Michigan,26011,16,15,1,1
+2020-04-27,Lapeer,Michigan,26087,165,164,24,24
+2020-04-27,Newaygo,Michigan,26123,15,14,0,0
+2020-04-27,Oakland,Michigan,26125,6928,6913,620,631
+2020-04-27,Unknown,Minnesota,,7,5,0,0
+2020-04-27,Alcorn,Mississippi,28003,9,8,0,0
+2020-04-27,Lee,Mississippi,28081,72,70,5,4
+2020-04-27,Washington,Mississippi,28151,78,77,3,3
+2020-04-27,Carroll,Missouri,29033,3,2,0,0
+2020-04-27,Jefferson,Missouri,29099,250,249,3,3
+2020-04-27,Clay,Nebraska,31035,6,5,0,0
+2020-04-27,Curry,New Mexico,35009,13,12,0,0
+2020-04-27,Eddy,New Mexico,35015,13,12,1,1
+2020-04-27,Chowan,North Carolina,37041,7,6,0,0
+2020-04-27,Davidson,North Carolina,37057,156,155,4,4
+2020-04-27,Orange,North Carolina,37135,208,207,13,13
+2020-04-27,Pitt,North Carolina,37147,111,110,2,2
+2020-04-27,Washington,North Carolina,37187,24,23,2,2
+2020-04-27,Allen,Ohio,39003,106,103,18,18
+2020-04-27,Clermont,Ohio,39025,77,76,2,2
+2020-04-27,Geauga,Ohio,39055,137,146,14,13
+2020-04-27,Hardin,Ohio,39065,23,22,0,0
+2020-04-27,Mahoning,Ohio,39099,737,764,66,65
+2020-04-27,Medina,Ohio,39103,160,159,13,13
+2020-04-27,Perry,Ohio,39127,13,12,0,0
+2020-04-27,Richland,Ohio,39139,78,76,1,1
+2020-04-27,Sandusky,Ohio,39143,20,19,2,2
+2020-04-27,Warren,Ohio,39165,133,124,11,11
+2020-04-27,Tulsa,Oklahoma,40143,491,490,27,28
+2020-04-27,Chester,Pennsylvania,42029,1217,1251,82,81
+2020-04-27,Beaufort,South Carolina,45013,255,254,10,10
+2020-04-27,Berkeley,South Carolina,45015,173,171,8,8
+2020-04-27,Charleston,South Carolina,45019,436,435,6,6
+2020-04-27,Orangeburg,South Carolina,45075,61,60,1,1
+2020-04-27,Anderson,Tennessee,47001,25,24,1,1
+2020-04-27,Crockett,Tennessee,47033,7,6,0,0
+2020-04-27,Lauderdale,Tennessee,47097,18,17,0,0
+2020-04-27,Weakley,Tennessee,47183,19,18,0,0
+2020-04-27,Hunt,Texas,48231,39,41,3,2
+2020-04-27,Kerr,Texas,48265,6,5,0,0
+2020-04-27,Wharton,Texas,48481,37,36,0,0
+2020-04-27,Salt Lake,Utah,49035,2144,2190,25,24
+2020-04-27,Unknown,Vermont,,5,3,0,0
+2020-04-27,Washington,Vermont,50023,33,32,1,1
+2020-04-27,Alexandria city,Virginia,51510,591,627,19,18
+2020-04-27,Galax city,Virginia,51640,4,3,0,0
+2020-04-27,Pulaski,Virginia,51155,10,9,0,0
+2020-04-27,Rappahannock,Virginia,51157,2,1,0,0
+2020-04-27,Brooke,West Virginia,54009,4,3,0,0
+2020-04-27,Hancock,West Virginia,54029,8,7,0,0
+2020-04-27,Mineral,West Virginia,54057,15,14,0,0
+2020-04-27,Carbon,Wyoming,56007,6,4,0,0
+2020-04-28,Lauderdale,Alabama,01077,31,30,2,2
+2020-04-28,Johnson,Arkansas,05071,30,29,0,0
+2020-04-28,Unknown,Colorado,,101,88,2,0
+2020-04-28,Unknown,Connecticut,,484,491,7,2
+2020-04-28,Glades,Florida,12043,6,5,1,1
+2020-04-28,Monroe,Florida,12087,79,78,3,3
+2020-04-28,Candler,Georgia,13043,8,7,0,0
+2020-04-28,Greene,Georgia,13133,54,52,1,2
+2020-04-28,Morgan,Georgia,13211,25,24,0,0
+2020-04-28,Stephens,Georgia,13257,73,71,1,1
+2020-04-28,Tift,Georgia,13277,100,97,5,5
+2020-04-28,Union,Georgia,13291,32,34,2,1
+2020-04-28,Unknown,Georgia,,600,268,2,0
+2020-04-28,Worth,Georgia,13321,143,144,9,8
+2020-04-28,Jefferson,Illinois,17081,83,81,8,9
+2020-04-28,Unknown,Illinois,,338,335,0,0
+2020-04-28,Marshall,Indiana,18099,29,28,1,1
+2020-04-28,Vanderburgh,Indiana,18163,119,126,2,1
+2020-04-28,Clayton,Iowa,19043,13,12,1,1
+2020-04-28,Mills,Iowa,19129,3,2,0,0
+2020-04-28,Unknown,Iowa,,7,13,8,0
+2020-04-28,Winneshiek,Iowa,19191,24,15,0,0
+2020-04-28,Adair,Kentucky,21001,83,79,9,10
+2020-04-28,Harrison,Kentucky,21097,18,17,0,0
+2020-04-28,Hickman,Kentucky,21105,2,1,0,0
+2020-04-28,Jackson,Kentucky,21109,60,59,6,6
+2020-04-28,Knott,Kentucky,21119,4,3,0,0
+2020-04-28,Lyon,Kentucky,21143,14,13,3,3
+2020-04-28,Owsley,Kentucky,21189,3,2,0,0
+2020-04-28,Woodford,Kentucky,21239,19,17,0,0
+2020-04-28,Unknown,Louisiana,,64,61,0,0
+2020-04-28,Unknown,Maine,,2,1,0,0
+2020-04-28,Unknown,Massachusetts,,795,625,8,5
+2020-04-28,Kent,Michigan,26081,1100,1305,34,33
+2020-04-28,Franklin,Mississippi,28037,17,16,1,1
+2020-04-28,Prentiss,Mississippi,28117,32,31,1,1
+2020-04-28,Tishomingo,Mississippi,28141,8,7,0,0
+2020-04-28,Barry,Missouri,29009,6,5,0,0
+2020-04-28,Greene,Missouri,29077,83,82,8,8
+2020-04-28,Henry,Missouri,29083,8,6,1,1
+2020-04-28,Lafayette,Missouri,29107,35,34,1,1
+2020-04-28,Marion,Missouri,29127,5,4,0,0
+2020-04-28,St. Francois,Missouri,29187,28,27,1,1
+2020-04-28,Warren,Missouri,29219,22,20,0,0
+2020-04-28,Howard,Nebraska,31093,12,10,0,0
+2020-04-28,Unknown,Nevada,,0,0,12,5
+2020-04-28,Belknap,New Hampshire,33001,35,34,0,0
+2020-04-28,Unknown,New Hampshire,,11,7,1,1
+2020-04-28,Unknown,New Jersey,,818,718,0,0
+2020-04-28,Henderson,North Carolina,37089,156,155,14,16
+2020-04-28,Stanly,North Carolina,37167,29,28,4,4
+2020-04-28,Muskingum,Ohio,39119,11,10,0,0
+2020-04-28,Washington,Oregon,41067,475,474,11,11
+2020-04-28,Dauphin,Pennsylvania,42043,529,553,21,20
+2020-04-28,Indiana,Pennsylvania,42063,63,62,4,4
+2020-04-28,Unknown,Rhode Island,,1378,1267,118,124
+2020-04-28,Dorchester,South Carolina,45035,92,91,2,2
+2020-04-28,Marion,South Carolina,45067,33,32,1,1
+2020-04-28,Grainger,Tennessee,47057,6,5,0,0
+2020-04-28,Maury,Tennessee,47119,41,40,1,1
+2020-04-28,Monroe,Tennessee,47123,15,14,1,1
+2020-04-28,Harrison,Texas,48203,86,84,2,2
+2020-04-28,Brunswick,Virginia,51025,14,13,0,0
+2020-04-28,Greene,Virginia,51079,10,9,1,1
+2020-04-29,Baldwin,Alabama,01003,171,173,3,2
+2020-04-29,Marion,Alabama,01093,76,75,6,6
+2020-04-29,Morgan,Alabama,01103,68,67,0,0
+2020-04-29,Walker,Alabama,01127,94,93,0,0
+2020-04-29,Unknown,Arkansas,,220,167,0,0
+2020-04-29,Routt,Colorado,08107,55,54,4,4
+2020-04-29,Unknown,Colorado,,88,67,0,0
+2020-04-29,Unknown,Connecticut,,491,507,2,1
+2020-04-29,Unknown,Delaware,,32,26,0,0
+2020-04-29,Seminole,Florida,12117,374,373,8,8
+2020-04-29,Sumter,Florida,12119,177,176,13,13
+2020-04-29,Charlton,Georgia,13049,9,8,0,0
+2020-04-29,Heard,Georgia,13149,10,9,1,1
+2020-04-29,Liberty,Georgia,13179,37,36,0,0
+2020-04-29,Macon,Georgia,13193,75,74,3,3
+2020-04-29,Quitman,Georgia,13239,5,4,1,1
+2020-04-29,Rabun,Georgia,13241,12,12,1,0
+2020-04-29,Taylor,Georgia,13269,18,17,2,2
+2020-04-29,Union,Georgia,13291,34,33,1,1
+2020-04-29,Wilcox,Georgia,13315,89,88,8,9
+2020-04-29,Bureau,Illinois,17011,11,10,0,0
+2020-04-29,Jefferson,Illinois,17081,81,80,9,11
+2020-04-29,Whiteside,Illinois,17195,76,75,5,5
+2020-04-29,Lawrence,Indiana,18093,95,94,11,13
+2020-04-29,Clay,Kansas,20027,5,4,1,1
+2020-04-29,Crawford,Kansas,20037,7,5,1,1
+2020-04-29,Daviess,Kentucky,21059,169,182,6,3
+2020-04-29,Fayette,Kentucky,21067,242,246,10,9
+2020-04-29,Hopkins,Kentucky,21107,192,193,24,23
+2020-04-29,Lafayette,Louisiana,22055,446,451,21,20
+2020-04-29,Dorchester,Maryland,24019,52,51,2,2
+2020-04-29,Unknown,Maryland,,0,0,93,66
+2020-04-29,Hampshire,Massachusetts,25015,509,531,27,26
+2020-04-29,Unknown,Massachusetts,,625,457,5,5
+2020-04-29,Iosco,Michigan,26069,48,47,4,4
+2020-04-29,Mecosta,Michigan,26107,15,14,1,1
+2020-04-29,Lee,Mississippi,28081,71,70,4,4
+2020-04-29,Butler,Missouri,29023,26,25,0,0
+2020-04-29,Callaway,Missouri,29027,22,21,1,1
+2020-04-29,Ray,Missouri,29177,12,11,0,0
+2020-04-29,Belknap,New Hampshire,33001,34,33,0,0
+2020-04-29,Unknown,New Hampshire,,7,4,1,1
+2020-04-29,Hunterdon,New Jersey,34019,573,583,24,23
+2020-04-29,Unknown,New Jersey,,718,617,0,0
+2020-04-29,Caldwell,North Carolina,37027,33,32,0,0
+2020-04-29,Carteret,North Carolina,37031,28,27,3,3
+2020-04-29,Davidson,North Carolina,37057,166,160,5,7
+2020-04-29,Franklin,North Carolina,37069,102,100,18,18
+2020-04-29,Ramsey,North Dakota,38071,4,3,0,0
+2020-04-29,Ottawa,Ohio,39123,38,37,0,0
+2020-04-29,Perry,Ohio,39127,13,12,0,0
+2020-04-29,Haskell,Oklahoma,40061,5,4,0,0
+2020-04-29,Ottawa,Oklahoma,40115,32,31,1,1
+2020-04-29,Allegheny,Pennsylvania,42003,1235,1273,87,86
+2020-04-29,Unknown,Rhode Island,,1267,1065,124,104
+2020-04-29,Pickens,South Carolina,45077,54,53,0,1
+2020-04-29,Polk,Tennessee,47139,8,7,0,0
+2020-04-29,Kleberg,Texas,48273,9,8,1,1
+2020-04-29,Limestone,Texas,48293,13,12,1,1
+2020-04-29,San Patricio,Texas,48409,13,12,0,0
+2020-04-29,Waller,Texas,48473,31,30,0,0
+2020-04-29,Kittitas,Washington,53037,15,14,0,0
+2020-04-29,Monongalia,West Virginia,54061,103,102,4,4
+2020-04-29,Teton,Wyoming,56039,65,64,1,1
+2020-04-30,Autauga,Alabama,01001,43,42,4,4
+2020-04-30,Chambers,Alabama,01017,293,291,21,21
+2020-04-30,Coosa,Alabama,01037,31,29,1,1
+2020-04-30,DeKalb,Alabama,01049,77,76,2,2
+2020-04-30,Pike,Alabama,01109,67,66,0,0
+2020-04-30,Phillips,Colorado,08095,6,5,0,0
+2020-04-30,Saguache,Colorado,08109,4,3,0,0
+2020-04-30,Unknown,Connecticut,,507,462,1,2
+2020-04-30,Unknown,Delaware,,26,25,0,0
+2020-04-30,Osceola,Florida,12097,479,478,7,7
+2020-04-30,Berrien,Georgia,13019,18,17,0,0
+2020-04-30,Early,Georgia,13099,214,213,21,20
+2020-04-30,Haralson,Georgia,13143,28,27,1,1
+2020-04-30,Henry,Georgia,13151,495,492,12,12
+2020-04-30,Jasper,Georgia,13159,22,21,0,0
+2020-04-30,Lamar,Georgia,13171,37,38,2,1
+2020-04-30,Oglethorpe,Georgia,13221,49,48,3,3
+2020-04-30,Seminole,Georgia,13253,30,29,2,2
+2020-04-30,Effingham,Illinois,17049,6,5,1,1
+2020-04-30,Ford,Illinois,17053,10,9,1,1
+2020-04-30,Cass,Indiana,18017,1125,1164,3,2
+2020-04-30,Wayne,Indiana,18177,36,34,3,3
+2020-04-30,Des Moines,Iowa,19057,17,16,1,1
+2020-04-30,Wright,Iowa,19197,4,3,0,0
+2020-04-30,De Soto,Louisiana,22031,191,190,11,11
+2020-04-30,West Feliciana,Louisiana,22125,111,115,3,2
+2020-04-30,Somerset,Maine,23025,18,17,0,0
+2020-04-30,Unknown,Maine,,2,1,0,0
+2020-04-30,Queen Anne's,Maryland,24035,55,52,4,6
+2020-04-30,Unknown,Maryland,,0,0,66,65
+2020-04-30,Unknown,Massachusetts,,457,415,5,5
+2020-04-30,Gladwin,Michigan,26051,16,15,1,1
+2020-04-30,Lapeer,Michigan,26087,167,170,25,24
+2020-04-30,Leelanau,Michigan,26089,10,9,0,0
+2020-04-30,Presque Isle,Michigan,26141,12,11,0,0
+2020-04-30,Wexford,Michigan,26165,10,9,2,2
+2020-04-30,Calhoun,Mississippi,28013,51,50,3,3
+2020-04-30,Jefferson,Mississippi,28063,23,18,0,0
+2020-04-30,Lee,Mississippi,28081,70,69,4,4
+2020-04-30,Winston,Mississippi,28159,43,42,0,0
+2020-04-30,Wright,Missouri,29229,10,9,0,0
+2020-04-30,Unknown,New Hampshire,,4,3,1,0
+2020-04-30,Unknown,New Jersey,,617,478,0,0
+2020-04-30,Lincoln,North Carolina,37109,27,26,0,0
+2020-04-30,Orange,North Carolina,37135,217,216,15,16
+2020-04-30,Adams,Ohio,39001,5,4,0,0
+2020-04-30,Highland,Ohio,39071,11,11,1,0
+2020-04-30,Huron,Ohio,39077,30,29,1,1
+2020-04-30,Mahoning,Ohio,39099,804,828,81,80
+2020-04-30,Preble,Ohio,39135,27,27,2,1
+2020-04-30,Wyandot,Ohio,39175,25,24,2,2
+2020-04-30,Westmoreland,Pennsylvania,42129,386,391,30,25
+2020-04-30,Bristol,Rhode Island,44001,145,143,0,0
+2020-04-30,Pennington,South Dakota,46103,12,11,0,0
+2020-04-30,Gibson,Tennessee,47053,44,43,1,1
+2020-04-30,Cooke,Texas,48097,8,7,0,0
+2020-04-30,Robertson,Texas,48395,4,3,0,0
+2020-04-30,Manassas city,Virginia,51683,196,216,3,2
+2020-04-30,Westmoreland,Virginia,51193,22,21,0,0
+2020-04-30,Wood,West Virginia,54107,39,38,2,2
+2020-05-01,Autauga,Alabama,01001,42,42,4,3
+2020-05-01,Chambers,Alabama,01017,291,290,21,21
+2020-05-01,Chilton,Alabama,01021,53,52,1,1
+2020-05-01,Greene,Alabama,01063,55,54,1,1
+2020-05-01,Madison,Alabama,01089,227,225,4,4
+2020-05-01,Benton,Arkansas,05007,102,101,0,0
+2020-05-01,Boone,Arkansas,05009,5,4,0,0
+2020-05-01,Bradley,Arkansas,05011,12,11,1,1
+2020-05-01,Drew,Arkansas,05043,16,15,1,1
+2020-05-01,Hempstead,Arkansas,05057,6,5,1,1
+2020-05-01,Polk,Arkansas,05113,8,7,0,0
+2020-05-01,Sharp,Arkansas,05135,10,9,0,0
+2020-05-01,Unknown,Arkansas,,168,160,0,0
+2020-05-01,Eagle,Colorado,08037,550,544,7,7
+2020-05-01,Gunnison,Colorado,08051,166,164,5,5
+2020-05-01,Pitkin,Colorado,08097,65,51,2,2
+2020-05-01,Routt,Colorado,08107,56,55,4,5
+2020-05-01,Unknown,Connecticut,,462,371,2,2
+2020-05-01,Windham,Connecticut,09015,186,200,4,2
+2020-05-01,Unknown,Delaware,,25,24,0,0
+2020-05-01,Lee,Florida,12071,1020,1066,43,42
+2020-05-01,Calhoun,Georgia,13037,106,103,4,4
+2020-05-01,Meriwether,Georgia,13199,54,54,1,0
+2020-05-01,Morgan,Georgia,13211,28,27,0,0
+2020-05-01,Pickens,Georgia,13227,26,25,2,2
+2020-05-01,Tattnall,Georgia,13267,10,9,0,0
+2020-05-01,Walker,Georgia,13295,61,60,0,0
+2020-05-01,Blaine,Idaho,16013,488,487,5,5
+2020-05-01,Gooding,Idaho,16047,10,9,0,0
+2020-05-01,Minidoka,Idaho,16067,8,7,0,0
+2020-05-01,Christian,Illinois,17021,30,29,5,5
+2020-05-01,Lee,Illinois,17103,24,23,0,0
+2020-05-01,Schuyler,Illinois,17169,2,1,0,0
+2020-05-01,Tazewell,Illinois,17179,45,41,3,3
+2020-05-01,Unknown,Illinois,,378,363,0,0
+2020-05-01,Boone,Indiana,18011,190,189,20,23
+2020-05-01,Crawford,Indiana,18025,18,17,0,0
+2020-05-01,Warrick,Indiana,18173,96,94,14,15
+2020-05-01,Anne Arundel,Maryland,24003,1725,1807,83,82
+2020-05-01,Kent,Maryland,24029,79,86,5,4
+2020-05-01,Hampshire,Massachusetts,25015,546,518,30,32
+2020-05-01,Benzie,Michigan,26019,6,4,0,0
+2020-05-01,Cass,Michigan,26027,31,30,2,2
+2020-05-01,Crawford,Michigan,26039,54,53,4,4
+2020-05-01,Iosco,Michigan,26069,52,51,4,7
+2020-05-01,Isabella,Michigan,26073,61,60,7,7
+2020-05-01,Mason,Michigan,26105,11,10,0,0
+2020-05-01,Midland,Michigan,26111,61,60,5,6
+2020-05-01,Currituck,North Carolina,37053,5,4,0,0
+2020-05-01,Graham,North Carolina,37075,2,1,0,0
+2020-05-01,Highland,Ohio,39071,11,10,0,0
+2020-05-01,Pickaway,Ohio,39129,1732,1731,21,22
+2020-05-01,Lincoln,Oklahoma,40081,13,12,0,0
+2020-05-01,Mifflin,Pennsylvania,42087,38,37,0,0
+2020-05-01,Bristol,Rhode Island,44001,143,142,0,0
+2020-05-01,Benton,Tennessee,47005,6,5,1,1
+2020-05-01,Loudon,Tennessee,47105,33,32,0,0
+2020-05-01,Ector,Texas,48135,81,78,4,4
+2020-05-01,Lubbock,Texas,48303,535,543,45,43
+2020-05-01,Ochiltree,Texas,48357,25,19,1,1
+2020-05-01,Tom Green,Texas,48451,49,48,1,1
+2020-05-01,Unknown,Utah,,11,0,2,1
+2020-05-01,Middlesex,Virginia,51119,8,7,0,0
+2020-05-01,Richmond,Virginia,51159,144,142,0,0
+2020-05-01,Okanogan,Washington,53047,26,25,1,1
+2020-05-01,Yakima,Washington,53077,1237,1293,49,48
+2020-05-01,Monongalia,West Virginia,54061,102,101,4,4
+2020-05-01,Kewaunee,Wisconsin,55061,14,13,1,1
+2020-05-02,Lee,Alabama,01081,391,397,29,28
+2020-05-02,La Paz,Arizona,04012,15,14,2,2
+2020-05-02,Yuma,Colorado,08125,9,8,0,0
+2020-05-02,Unknown,Delaware,,24,22,0,0
+2020-05-02,Charlotte,Florida,12015,245,244,22,25
+2020-05-02,Santa Rosa,Florida,12113,158,157,8,8
+2020-05-02,Wakulla,Florida,12129,24,23,1,1
+2020-05-02,Butts,Georgia,13035,153,151,16,16
+2020-05-02,Montgomery,Georgia,13209,3,2,0,0
+2020-05-02,Oconee,Georgia,13219,66,64,0,0
+2020-05-02,Pierce,Georgia,13229,55,52,3,3
+2020-05-02,Rabun,Georgia,13241,14,13,0,0
+2020-05-02,Towns,Georgia,13281,22,20,1,1
+2020-05-02,Union,Georgia,13291,33,31,1,1
+2020-05-02,Canyon,Idaho,16027,244,243,7,7
+2020-05-02,Christian,Illinois,17021,29,28,5,5
+2020-05-02,Jefferson,Illinois,17081,85,84,12,14
+2020-05-02,Unknown,Illinois,,363,278,0,0
+2020-05-02,Woodford,Illinois,17203,14,13,1,1
+2020-05-02,Buena Vista,Iowa,19021,6,5,0,0
+2020-05-02,Geary,Kansas,20061,14,13,0,0
+2020-05-02,McLean,Kentucky,21149,15,14,0,0
+2020-05-02,Avoyelles,Louisiana,22009,73,72,7,7
+2020-05-02,Bienville,Louisiana,22013,77,76,13,13
+2020-05-02,Pointe Coupee,Louisiana,22077,104,101,15,15
+2020-05-02,Lincoln,Maine,23015,14,13,0,0
+2020-05-02,Calvert,Maryland,24009,161,160,9,10
+2020-05-02,Kent,Maryland,24029,86,80,4,4
+2020-05-02,Unknown,Maryland,,0,0,91,64
+2020-05-02,Unknown,Massachusetts,,425,377,6,5
+2020-05-02,Gladwin,Michigan,26051,16,14,1,1
+2020-05-02,Jackson,Michigan,26075,381,364,22,24
+2020-05-02,Unknown,Michigan,,1666,1934,45,44
+2020-05-02,Amite,Mississippi,28005,29,28,0,0
+2020-05-02,Leake,Mississippi,28079,219,229,2,1
+2020-05-02,Tate,Mississippi,28137,42,41,0,0
+2020-05-02,Gasconade,Missouri,29073,3,2,0,0
+2020-05-02,Unknown,Nevada,,0,0,10,4
+2020-05-02,Beaufort,North Carolina,37013,22,21,0,0
+2020-05-02,Carteret,North Carolina,37031,29,27,3,3
+2020-05-02,Watauga,North Carolina,37189,9,8,0,0
+2020-05-02,Pickaway,Ohio,39129,1731,1724,22,22
+2020-05-02,Polk,Oregon,41053,42,41,1,2
+2020-05-02,Colleton,South Carolina,45029,33,32,4,4
+2020-05-02,Greene,Tennessee,47059,44,43,2,2
+2020-05-02,Hockley,Texas,48219,21,20,1,1
+2020-05-02,Pecos,Texas,48371,11,10,0,0
+2020-05-02,Amherst,Virginia,51009,13,12,0,0
+2020-05-02,Caroline,Virginia,51033,32,29,1,1
+2020-05-02,Cumberland,Virginia,51049,13,12,0,0
+2020-05-02,Hanover,Virginia,51085,132,133,12,11
+2020-05-02,King George,Virginia,51099,34,33,4,4
+2020-05-02,Benton,Washington,53005,461,494,44,43
+2020-05-02,Franklin,Washington,53021,309,348,11,10
+2020-05-02,Putnam,West Virginia,54079,27,27,1,0
+2020-05-02,Dane,Wisconsin,55025,430,433,23,22
+2020-05-02,Jackson,Wisconsin,55053,13,12,1,1
+2020-05-02,Natrona,Wyoming,56025,39,38,0,0
+2020-05-03,Benton,Arkansas,05007,112,106,0,0
+2020-05-03,Unknown,Arkansas,,178,174,0,0
+2020-05-03,Unknown,Connecticut,,371,312,2,1
+2020-05-03,Highlands,Florida,12055,86,85,7,7
+2020-05-03,Seminole,Florida,12117,395,394,8,8
+2020-05-03,St. Johns,Florida,12109,212,211,4,4
+2020-05-03,Appling,Georgia,13001,72,72,6,5
+2020-05-03,Brantley,Georgia,13025,23,22,2,2
+2020-05-03,Butts,Georgia,13035,151,150,16,16
+2020-05-03,Catoosa,Georgia,13047,51,46,0,0
+2020-05-03,Chattooga,Georgia,13055,16,15,2,2
+2020-05-03,Dade,Georgia,13083,16,15,1,1
+2020-05-03,Grady,Georgia,13131,64,63,4,3
+2020-05-03,Greene,Georgia,13133,55,54,2,3
+2020-05-03,Habersham,Georgia,13137,344,343,8,8
+2020-05-03,Lowndes,Georgia,13185,158,157,4,4
+2020-05-03,Marion,Georgia,13197,42,40,1,1
+2020-05-03,Peach,Georgia,13225,56,55,2,2
+2020-05-03,Pierce,Georgia,13229,52,51,3,3
+2020-05-03,Putnam,Georgia,13237,42,41,5,5
+2020-05-03,Talbot,Georgia,13263,26,25,1,1
+2020-05-03,Turner,Georgia,13287,69,68,8,9
+2020-05-03,Walker,Georgia,13295,60,51,0,0
+2020-05-03,Washington,Georgia,13303,44,44,2,1
+2020-05-03,Maui,Hawaii,15009,117,116,5,6
+2020-05-03,Gooding,Idaho,16047,10,9,0,0
+2020-05-03,Minidoka,Idaho,16067,8,7,0,0
+2020-05-03,Clark,Illinois,17023,6,5,0,0
+2020-05-03,McHenry,Illinois,17111,693,738,38,37
+2020-05-03,Unknown,Illinois,,278,257,0,0
+2020-05-03,Noble,Indiana,18113,84,83,14,14
+2020-05-03,Clayton,Iowa,19043,18,15,1,1
+2020-05-03,Delaware,Iowa,19055,10,5,0,1
+2020-05-03,Claiborne,Louisiana,22027,59,58,7,7
+2020-05-03,Unknown,Maryland,,0,0,64,46
+2020-05-03,Alcona,Michigan,26001,5,4,1,1
+2020-05-03,Arenac,Michigan,26011,29,28,1,1
+2020-05-03,Barry,Michigan,26015,39,37,1,1
+2020-05-03,Bay,Michigan,26017,158,157,6,6
+2020-05-03,Benzie,Michigan,26019,5,4,0,0
+2020-05-03,Cass,Michigan,26027,33,32,2,2
+2020-05-03,Crawford,Michigan,26039,57,56,4,4
+2020-05-03,Hillsdale,Michigan,26059,132,131,18,18
+2020-05-03,Jackson,Michigan,26075,364,361,24,24
+2020-05-03,Marquette,Michigan,26103,51,50,8,8
+2020-05-03,Montcalm,Michigan,26117,45,44,1,1
+2020-05-03,Ogemaw,Michigan,26129,15,14,0,0
+2020-05-03,St. Clair,Michigan,26147,336,335,21,21
+2020-05-03,St. Joseph,Michigan,26149,38,36,1,1
+2020-05-03,Adams,Mississippi,28001,149,148,9,9
+2020-05-03,Covington,Mississippi,28031,67,66,0,0
+2020-05-03,Humphreys,Mississippi,28053,25,24,4,4
+2020-05-03,Platte,Missouri,29165,34,33,0,0
+2020-05-03,Ste. Genevieve,Missouri,29186,8,7,1,1
+2020-05-03,Knox,Nebraska,31107,2,1,0,0
+2020-05-03,Unknown,New Hampshire,,26,19,0,0
+2020-05-03,Unknown,New Jersey,,676,641,0,0
+2020-05-03,Davidson,North Carolina,37057,180,179,8,8
+2020-05-03,Lenoir,North Carolina,37107,82,81,4,4
+2020-05-03,Nash,North Carolina,37127,99,98,3,3
+2020-05-03,Onslow,North Carolina,37133,51,50,1,1
+2020-05-03,Stokes,North Carolina,37169,11,10,0,0
+2020-05-03,Surry,North Carolina,37171,17,16,1,1
+2020-05-03,Transylvania,North Carolina,37175,8,7,0,0
+2020-05-03,Vance,North Carolina,37181,113,112,7,7
+2020-05-03,Monroe,Ohio,39111,4,3,0,0
+2020-05-03,Clinton,Pennsylvania,42035,34,32,0,0
+2020-05-03,Unknown,Rhode Island,,1142,1086,149,1
+2020-05-03,Monroe,Tennessee,47123,22,21,1,1
+2020-05-03,Burnet,Texas,48053,20,19,0,0
+2020-05-03,Colorado,Texas,48089,11,10,0,0
+2020-05-03,Lamoille,Vermont,50015,26,25,2,2
+2020-05-03,Manassas city,Virginia,51683,258,266,2,1
+2020-05-03,Kanawha,West Virginia,54039,168,167,10,10
+2020-05-04,Bibb,Alabama,01007,43,42,0,0
+2020-05-04,Talladega,Alabama,01121,65,64,2,2
+2020-05-04,Ashley,Arkansas,05003,16,15,0,0
+2020-05-04,Cleburne,Arkansas,05023,73,72,4,4
+2020-05-04,Crawford,Arkansas,05033,5,4,0,0
+2020-05-04,Crittenden,Arkansas,05035,197,196,5,7
+2020-05-04,Garland,Arkansas,05051,118,117,0,0
+2020-05-04,Logan,Arkansas,05083,3,2,1,0
+2020-05-04,Saline,Arkansas,05125,68,67,1,1
+2020-05-04,Unknown,Arkansas,,174,163,0,0
+2020-05-04,Garfield,Colorado,08045,97,95,2,2
+2020-05-04,Larimer,Colorado,08069,395,393,19,19
+2020-05-04,Logan,Colorado,08075,291,290,1,1
+2020-05-04,Mesa,Colorado,08077,47,46,0,0
+2020-05-04,Pueblo,Colorado,08101,158,157,10,11
+2020-05-04,Unknown,Colorado,,134,130,0,0
+2020-05-04,Banks,Georgia,13011,31,29,0,0
+2020-05-04,Camden,Georgia,13039,35,33,1,1
+2020-05-04,Carroll,Georgia,13045,386,382,14,15
+2020-05-04,Clayton,Georgia,13063,793,804,33,32
+2020-05-04,Colquitt,Georgia,13071,188,192,10,9
+2020-05-04,Glynn,Georgia,13127,59,58,1,1
+2020-05-04,Harris,Georgia,13145,61,59,2,2
+2020-05-04,Heard,Georgia,13149,14,13,1,1
+2020-05-04,Lamar,Georgia,13171,40,39,1,1
+2020-05-04,Liberty,Georgia,13179,38,37,0,0
+2020-05-04,Marion,Georgia,13197,40,39,1,1
+2020-05-04,Miller,Georgia,13201,33,32,0,0
+2020-05-04,Quitman,Georgia,13239,8,6,1,1
+2020-05-04,Richmond,Georgia,13245,417,422,16,15
+2020-05-04,Washington,Georgia,13303,44,43,1,1
+2020-05-04,Crawford,Illinois,17033,10,8,0,0
+2020-05-04,Effingham,Illinois,17049,6,5,1,1
+2020-05-04,Franklin,Illinois,17055,10,9,0,0
+2020-05-04,Henderson,Illinois,17071,5,4,0,0
+2020-05-04,Livingston,Illinois,17105,24,23,1,1
+2020-05-04,Menard,Illinois,17129,15,14,0,0
+2020-05-04,Monroe,Illinois,17133,75,73,11,12
+2020-05-04,Tazewell,Illinois,17179,47,45,3,3
+2020-05-04,Vanderburgh,Indiana,18163,151,150,1,1
+2020-05-04,Jackson,Iowa,19097,6,5,0,0
+2020-05-04,Unknown,Iowa,,124,95,0,0
+2020-05-04,Ballard,Kentucky,21007,10,8,0,0
+2020-05-04,Boyd,Kentucky,21019,33,31,3,3
+2020-05-04,Caldwell,Kentucky,21033,13,12,0,0
+2020-05-04,Clark,Kentucky,21049,21,20,0,0
+2020-05-04,Floyd,Kentucky,21071,14,12,0,0
+2020-05-04,Fulton,Kentucky,21075,2,1,0,0
+2020-05-04,Jessamine,Kentucky,21113,41,40,0,0
+2020-05-04,Simpson,Kentucky,21213,29,28,2,2
+2020-05-04,Wayne,Kentucky,21231,9,8,0,0
+2020-05-04,East Carroll,Louisiana,22035,9,8,0,0
+2020-05-04,Unknown,Massachusetts,,981,662,7,7
+2020-05-04,Branch,Michigan,26023,68,66,2,2
+2020-05-04,Dickinson,Michigan,26043,4,3,2,2
+2020-05-04,Gratiot,Michigan,26057,26,25,2,2
+2020-05-04,Livingston,Michigan,26093,361,356,19,20
+2020-05-04,Macomb,Michigan,26099,5756,5736,628,643
+2020-05-04,Oakland,Michigan,26125,7518,7499,757,762
+2020-05-04,Sanilac,Michigan,26151,37,36,5,5
+2020-05-04,Unknown,Minnesota,,17,16,1,1
+2020-05-04,Boone,Missouri,29019,102,97,1,1
+2020-05-04,Polk,Nebraska,31143,10,9,0,0
+2020-05-04,Unknown,Nevada,,0,0,5,2
+2020-05-04,Unknown,New Hampshire,,19,15,0,0
+2020-05-04,Union,New Jersey,34039,13225,13357,738,737
+2020-05-04,Grant,New Mexico,35017,16,15,0,0
+2020-05-04,Champaign,Ohio,39021,15,14,1,1
+2020-05-04,Lawrence,Ohio,39087,25,24,0,0
+2020-05-04,Pittsburg,Oklahoma,40121,39,38,2,2
+2020-05-04,Philadelphia,Pennsylvania,42101,15854,16040,727,726
+2020-05-04,Beaufort,South Carolina,45013,270,269,11,11
+2020-05-04,Dorchester,South Carolina,45035,101,100,3,3
+2020-05-04,Lancaster,South Carolina,45057,101,99,4,4
+2020-05-04,Davis,Utah,49011,300,299,2,2
+2020-05-04,Unknown,Utah,,8,0,2,2
+2020-05-04,Clallam,Washington,53009,19,18,0,0
+2020-05-04,King,Washington,53033,6620,6584,461,465
+2020-05-04,Kittitas,Washington,53037,15,14,0,0
+2020-05-04,Raleigh,West Virginia,54081,11,10,0,0
+2020-05-04,Roane,West Virginia,54087,7,6,0,0
+2020-05-05,Escambia,Alabama,01053,32,31,2,2
+2020-05-05,Arkansas,Arkansas,05001,3,2,0,0
+2020-05-05,Phillips,Arkansas,05107,6,5,1,1
+2020-05-05,Polk,Arkansas,05113,8,7,0,0
+2020-05-05,Sharp,Arkansas,05135,9,7,0,0
+2020-05-05,Tuolumne,California,06109,4,3,0,0
+2020-05-05,Eagle,Colorado,08037,552,547,7,7
+2020-05-05,Unknown,Colorado,,130,81,0,1
+2020-05-05,Unknown,Connecticut,,363,368,3,2
+2020-05-05,Osceola,Florida,12097,516,514,8,9
+2020-05-05,Calhoun,Georgia,13037,107,106,4,5
+2020-05-05,Dooly,Georgia,13093,133,132,12,11
+2020-05-05,Greene,Georgia,13133,57,56,5,5
+2020-05-05,Lumpkin,Georgia,13187,67,69,2,1
+2020-05-05,Marion,Georgia,13197,39,37,1,1
+2020-05-05,McIntosh,Georgia,13191,6,5,0,0
+2020-05-05,Pickens,Georgia,13227,29,28,2,2
+2020-05-05,Stephens,Georgia,13257,88,86,1,1
+2020-05-05,Unknown,Georgia,,703,617,3,0
+2020-05-05,Wilkinson,Georgia,13319,36,35,2,2
+2020-05-05,Hawaii,Hawaii,15001,75,74,0,0
+2020-05-05,Canyon,Idaho,16027,248,246,7,7
+2020-05-05,Fulton,Illinois,17057,4,3,1,1
+2020-05-05,Jefferson,Illinois,17081,87,86,15,15
+2020-05-05,LaSalle,Illinois,17099,70,69,1,1
+2020-05-05,Lawrence,Illinois,17101,4,3,0,0
+2020-05-05,Monroe,Illinois,17133,73,74,12,11
+2020-05-05,Ogle,Illinois,17141,132,133,3,2
+2020-05-05,Perry,Illinois,17145,34,32,0,0
+2020-05-05,Stephenson,Illinois,17177,71,70,0,0
+2020-05-05,Unknown,Illinois,,277,236,0,0
+2020-05-05,Benton,Indiana,18007,11,10,0,0
+2020-05-05,Henry,Indiana,18065,48,47,1,2
+2020-05-05,Newton,Indiana,18111,62,61,8,8
+2020-05-05,Owen,Indiana,18119,25,24,1,1
+2020-05-05,Allamakee,Iowa,19005,99,98,3,4
+2020-05-05,Avoyelles,Louisiana,22009,74,73,7,7
+2020-05-05,Concordia,Louisiana,22029,40,41,5,4
+2020-05-05,Terrebonne,Louisiana,22109,466,469,33,32
+2020-05-05,Baltimore,Maryland,24005,3448,3430,136,142
+2020-05-05,Unknown,Massachusetts,,662,594,7,7
+2020-05-05,Arenac,Michigan,26011,28,27,1,1
+2020-05-05,Gogebic,Michigan,26053,5,4,1,1
+2020-05-05,Marquette,Michigan,26103,50,49,8,8
+2020-05-05,Fillmore,Minnesota,27045,13,12,1,1
+2020-05-05,Franklin,Mississippi,28037,18,17,1,1
+2020-05-05,Cole,Missouri,29051,54,52,1,1
+2020-05-05,Jefferson,Missouri,29099,279,278,10,10
+2020-05-05,Lincoln,Missouri,29113,51,49,1,1
+2020-05-05,Scott,Missouri,29201,76,75,2,2
+2020-05-05,Sullivan,Missouri,29211,2,1,0,0
+2020-05-05,Warren,Missouri,29219,22,21,0,0
+2020-05-05,Unknown,New Jersey,,647,550,0,0
+2020-05-05,Alamance,North Carolina,37001,128,126,2,3
+2020-05-05,Northampton,North Carolina,37131,92,91,4,4
+2020-05-05,Pender,North Carolina,37141,17,16,0,1
+2020-05-05,Rutherford,North Carolina,37161,146,145,6,7
+2020-05-05,Clark,Ohio,39023,70,69,2,2
+2020-05-05,Berkeley,South Carolina,45015,190,188,11,14
+2020-05-05,Charleston,South Carolina,45019,464,463,7,8
+2020-05-05,Lancaster,South Carolina,45057,99,96,4,4
+2020-05-05,York,South Carolina,45091,222,219,3,4
+2020-05-05,Anderson,Tennessee,47001,30,29,1,1
+2020-05-05,Carroll,Tennessee,47017,23,22,1,1
+2020-05-05,Jefferson,Tennessee,47089,28,27,0,0
+2020-05-05,Madison,Tennessee,47113,142,140,1,1
+2020-05-05,Obion,Tennessee,47131,17,16,1,1
+2020-05-05,Smith,Tennessee,47159,24,23,1,1
+2020-05-05,Stewart,Tennessee,47161,8,7,0,0
+2020-05-05,Dallam,Texas,48111,13,10,1,1
+2020-05-05,Hood,Texas,48221,20,19,3,3
+2020-05-05,Walker,Texas,48471,298,293,2,2
+2020-05-05,Tooele,Utah,49045,71,70,0,0
+2020-05-05,Gloucester,Virginia,51073,27,26,1,1
+2020-05-05,Halifax,Virginia,51083,19,18,0,0
+2020-05-05,James City,Virginia,51095,167,166,13,14
+2020-05-05,Lexington city,Virginia,51678,6,5,0,0
+2020-05-05,Richmond,Virginia,51159,145,143,0,1
+2020-05-05,Westmoreland,Virginia,51193,31,30,0,0
+2020-05-05,Klickitat,Washington,53039,18,17,3,3
+2020-05-05,Jackson,West Virginia,54035,135,134,15,15
+2020-05-05,Putnam,West Virginia,54079,29,27,0,0
+2020-05-05,Raleigh,West Virginia,54081,10,9,0,0
