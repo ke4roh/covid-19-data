@@ -939,11 +939,13 @@
 #c29003 { fill:#e19d8b; }
 #c29019, #c50005, #c53003, #c53037, #c54011, #c54049 { fill:#b2ffb2; }
 #c29021 { fill:#cf004e; }
-#c29037, #c29047, #c29101, #c29165 { fill:#e80000; }
+#c29037 { fill:#eddf6c; }
+#c29047 { fill:#e6ad6d; }
 #c29069 { fill:#eeed80; }
 #c29071 { fill:#a0fb7e; }
 #c29083 { fill:#de8b87; }
 #c29095 { fill:#c6f68f; }
+#c29101 { fill:#ebd466; }
 #c29107 { fill:#d94c69; }
 #c29111, #c39031 { fill:#d2ffd2; }
 #c29113 { fill:#a7fb87; }
@@ -951,6 +953,7 @@
 #c29145 { fill:#db8591; }
 #c29155 { fill:#d51e59; }
 #c29159 { fill:#dd6d6e; }
+#c29165 { fill:#e8b96d; }
 #c29177, #c40137 { fill:#cbffcb; }
 #c29186 { fill:#d03479; }
 #c29187 { fill:#e6ffe6; }

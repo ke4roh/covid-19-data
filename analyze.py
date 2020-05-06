@@ -55,11 +55,13 @@ with open('us-counties.csv', newline='') as csvfile:
 # The cases and deaths that we show for these four counties are only for the portions 
 # exclusive of Kansas City. Cases and deaths for Kansas City are reported as their own line.
 # So... assign the cases to the counties in proportion to their population.
+# Cass, Clay, Johnson, Platte
+kc = ('29037','29047','29101','29165')
+kc_pop = sum([ county_pop[x] for x in kc])
 for row in kc_rows:
-    # Cass, Clay, Johnson, Platte
-    for f in ('29037','29047','29101','29165'):
+    for f in kc:
         key = (row['date'],f)
-        counts[key] = counts.get(key,0) + int(row["cases"] * county_pop[f] + 0.5)
+        counts[key] = counts.get(key,0) + int(row["cases"] * county_pop[f]/kc_pop + 0.5)
 
 
 dates = sorted(dates)
@@ -82,7 +84,10 @@ for date in dates[6:]:
     last_month = date - month
     for co in fips:
         today_sum = counts.get((date,co),0)
-        today_growth = max(0,today_sum - counts.get((yesterday,co),0))
+        today_growth = today_sum - counts.get((yesterday,co),0)
+        if False and today_growth < 0:
+            print("Negative growth for fips %s, %s, today=%d, yesterday=%d" % (co,date.strftime("%Y-%m-%d"),today_sum,counts.get((yesterday,co),0)))
+        today_growth = max(today_growth,0)
         month_sum = max(0,today_sum - counts.get((last_month,co),0))
         if today_sum > 5:
             first_day = first_day or date
