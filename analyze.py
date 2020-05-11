@@ -75,7 +75,7 @@ daily_rates = {}
 daily_pops = {}
 eliminated = {}
 first_day = None
-decay_rate = .1
+new_measurement_weight = .25 
 
 for date in dates[6:]:
     daily_rates[date] = []
@@ -105,7 +105,7 @@ for date in dates[6:]:
 
             if (yesterday,co) in rates:
                # ((1-$K$1)*K21+J22)/(2-$K$1)
-                rate = ((1-decay_rate) * rates[(yesterday,co)] + day_rate)/(2-decay_rate)
+                rate = (rates[(yesterday,co)] + day_rate * new_measurement_weight)/(1 + new_measurement_weight)
             else:
                 rate = day_rate
             rates[(date,co)]=rate
