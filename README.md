@@ -21,10 +21,11 @@ of some data error.  This is treated as a 0 growth for the day of the decrease.
 
 ![The latest map](latest.svg "A map of the United States by county showing the latest data for Covid-19 spread.  The spreadsheet gives similar information by state on the tab labeled By State.")
 
-See [The animated map and accompanying spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSTIhpyzdht8F1abRa27Cxd69EVToTh4E45sCa5hXEmdhHNu8T5As-mrWkUlK8DCCJ0WAN3FhEMcFDV/pubhtml)
+See [The animated map](http://home.hiwaay.net/~jimes/covid-19_rate_anim/) and [accompanying spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSTIhpyzdht8F1abRa27Cxd69EVToTh4E45sCa5hXEmdhHNu8T5As-mrWkUlK8DCCJ0WAN3FhEMcFDV/pubhtml)
 
 # Resources
-* [How To Tell If Were Beating COVID-19](https://youtu.be/54XLXg4fYsc) (YouTube)
+* [How To Tell If We are Beating COVID-19](https://youtu.be/54XLXg4fYsc) (YouTube)
 * [The New York Times Coronavirus tracking](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html), CC-BY-SA-NC
 * [US Counties Map](https://commons.wikimedia.org/wiki/File:Usa_counties_large.svg) PD
 * [US Census County Populations](https://www.census.gov/data/datasets/time-series/demo/popest/2010s-counties-total.html#par_textimage_70769902) PD
+* [JQuery UI](https://jqueryui.com/) MIT
