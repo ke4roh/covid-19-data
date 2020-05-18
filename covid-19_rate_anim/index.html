@@ -26150,6 +26150,7 @@
 <text style="font-size:16px" fill="black" x="440" y="625">Calculated from New York Times Covid-19 Data Set and census data</text>
 </svg>
 <div id="slider"></div>
+<div id="instructions">
 <p>Click on the time slider to stop the animation.  Double-click to resume.</p>
 
 <p>For a county to be colored on this map, it must have at least 5 confirmed cases.</p>
@@ -26169,7 +26170,7 @@ the color becomes more saturated.</p>
 of some data error.  This is treated as a 0 growth for the day of the decrease.</p>
 
 <p>See source code and licensing information at the <a href="https://github.com/ke4roh/covid-19-data">github repository</a>.</p>
-
+</div>
 <script src="jquery.js"></script>
 <script src="jquery-ui.js"></script>
 <script>
@@ -26201,6 +26202,7 @@ $( document ).ready(function(){
            change: function(event, ui) { updateMap(); }
         })
         .width($("#theBigMap").width());
+        $("#instructions").width($("#theBigMap").width());
         timerid = setInterval(updateSlider,frameDuration);
         $("#slider")
             .click(function(){
