@@ -97,9 +97,11 @@ for date in dates[6:]:
                 day_rate = today_growth / month_sum
             except ZeroDivisionError:
                 if not today_growth:
-                    # No groth today means it didn't change.  Eliminated!
+                    # If the month_sum is 0, that might be good, or data error. 
                     day_rate = 0
-                    eliminated[(date,co)] = True
+                    # If all intervening days were the same, then we'll count it as solved.
+                    if all(counts.get((date - (d * day),co),0)==today_sum for d in range(1,30)):
+                        eliminated[(date,co)] = True
                 else:
                     # There was change for today, so it is probably worst-case.
                     day_rate = .14
