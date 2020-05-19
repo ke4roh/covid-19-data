@@ -26220,7 +26220,12 @@ $( document ).ready(function(){
            max: mapStyles.length - 1,
            change: function(event, ui) { updateMap(); }
         })
-        .width($("#theBigMap").width());
+        .width($("#theBigMap").width() * .9)
+        .position({
+           my: "center top",
+           at: "center bottom+10",
+           of: "#theBigMap"
+        });
         $("#instructions").width($("#theBigMap").width());
         timerid = setInterval(updateSlider,frameDuration);
         $("#slider")

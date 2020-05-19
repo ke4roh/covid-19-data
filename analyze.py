@@ -224,5 +224,5 @@ with open('Usa_counties_large.svg') as carta:
                 renderStyles(cartb,date)
                 renderLegendStyles(cartb)
             elif "</tspan>" in line:
-                cartb.write(date.strftime("%Y-%m-%d"))
+                cartb.write(dates)
             cartb.write(line)
