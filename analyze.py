@@ -204,21 +204,25 @@ def renderAnim(f):
 """)
 jsonStyles= []
 for date in [first_day + timedelta(days=x) for x in range(0, (dates[-1]-first_day).days+1)]:
-    with open('Usa_counties_large.svg') as carta:
-        #with open(dates[-1].strftime("%Y-%m-%d") + ".svg",'w') as cartb:
-        dates = date.strftime("%Y-%m-%d")
-        with open(dates + ".svg",'w') as cartb:
-            with io.StringIO() as cssBuffer:
-                renderStyles(cssBuffer,date)
-                jsonStyles.append([dates,cssBuffer.getvalue()])
-            for line in carta:
-                if "</style>" in line:
-                    #renderAnim(cartb)
-                    renderStyles(cartb,date)
-                    renderLegendStyles(cartb)
-                elif "</tspan>" in line:
-                    cartb.write(date.strftime("%Y-%m-%d"))
-                cartb.write(line)
+    with io.StringIO() as cssBuffer:
+        renderStyles(cssBuffer,date)
+        jsonStyles.append([date.strftime("%Y-%m-%d"),cssBuffer.getvalue()])
 with open("covid-19_rate_anim/animation-css.json",'w') as fp:
-    json.dump(jsonStyles,fp);
+    json.dump(jsonStyles,fp)
 
+date = dates[-1]
+with open('Usa_counties_large.svg') as carta:
+    #with open(dates[-1].strftime("%Y-%m-%d") + ".svg",'w') as cartb:
+    dates = date.strftime("%Y-%m-%d")
+    with open("latest.svg",'w') as cartb:
+        with io.StringIO() as cssBuffer:
+            renderStyles(cssBuffer,date)
+            jsonStyles.append([dates,cssBuffer.getvalue()])
+        for line in carta:
+            if "</style>" in line:
+                #renderAnim(cartb)
+                renderStyles(cartb,date)
+                renderLegendStyles(cartb)
+            elif "</tspan>" in line:
+                cartb.write(date.strftime("%Y-%m-%d"))
+            cartb.write(line)
