@@ -6,7 +6,6 @@ from sys import exit
 from math import log, exp
 from colorsys import hsv_to_rgb
 from collections import defaultdict
-from yaml import dump
 import io
 import json
 
