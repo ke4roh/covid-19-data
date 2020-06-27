@@ -89,7 +89,7 @@ for date in dates[6:]:
         if False and today_growth < 0:
             print("Negative growth for fips %s, %s, today=%d, yesterday=%d" % (co,date.strftime("%Y-%m-%d"),today_sum,counts.get((yesterday,co),0)))
         today_growth = max(today_growth,0)
-        month_sum = max(0,today_sum - counts.get((last_month,co),0))
+        month_sum = max(0,today_sum - min([ counts.get((date - (day*x) ,co),0) for x in range(1,31) ] ))
         if today_sum > 5:
             first_day = first_day or date
             try:
