@@ -39,6 +39,8 @@ with open('us-counties.csv', newline='') as csvfile:
      for row in reader:
          row['date'] = datetime.strptime(row['date'],"%Y-%m-%d").date()
          row['cases'] = int(row['cases'])
+         if row['fips'] and int(row['fips'][:2]) >= 60:
+             continue # The map doesn't include territories
          if row['county'] == "New York City":
              for c,f in (("Bronx","36005"),("Kings","36047"),("New York County","36061"),("Richmond County","36085"),("Queens","36081")):
                  r2 = dict(row)
