@@ -1,0 +1,14 @@
+ #!/bin/bash 
+
+set -e
+
+git fetch nyt
+if (( $(git log HEAD..nyt us-states.csv | wc -l) > 3 )) ; then
+    git merge -X ours --no-commit nyt/master
+    ./make
+    git add covid-19_rate_anim/animation-css.json latest.svg 
+    git commit --no-edit
+    git push
+else
+    echo "no changes yet"
+fi
