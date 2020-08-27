@@ -655,7 +655,7 @@
 #c17137 { fill:#a3f63c; }
 #c17139 { fill:#c0f346; }
 #c17141 { fill:#c2f347; }
-#c17143 { fill:#9cf740; }
+#c17143, #c19113 { fill:#9cf740; }
 #c17145 { fill:#c5f33d; }
 #c17147, #c27041, #c29199, #c39071, #c39167, #c42059, #c48019, #c49019, #c54033 { fill:#65ff65; }
 #c17149 { fill:#e27d56; }
@@ -773,10 +773,10 @@
 #c19001, #c20193, #c21091, #c21119, #c29223, #c40123, #c41065, #c48333, #c55141 { fill:#58ff58; }
 #c19003 { fill:#67fe59; }
 #c19005, #c40041 { fill:#baf440; }
-#c19007 { fill:#eddb52; }
+#c19007 { fill:#eac451; }
 #c19009 { fill:#ebd04e; }
 #c19011, #c29163, #c37009, #c37169, #c47161, #c51520 { fill:#55ff55; }
-#c19013 { fill:#c4f229; }
+#c19013 { fill:#cbf228; }
 #c19015 { fill:#b9f440; }
 #c19017 { fill:#a1f744; }
 #c19019 { fill:#5efe4f; }
@@ -785,49 +785,47 @@
 #c19025 { fill:#ede442; }
 #c19027 { fill:#e47c35; }
 #c19029 { fill:#6dfc4d; }
-#c19033 { fill:#77fa38; }
+#c19033 { fill:#82f938; }
 #c19035 { fill:#ecce3f; }
 #c19037 { fill:#e69448; }
 #c19039 { fill:#b2f42d; }
 #c19041 { fill:#aaf53b; }
 #c19043 { fill:#e69642; }
-#c19045 { fill:#ebc437; }
+#c19045 { fill:#eac037; }
 #c19047 { fill:#e89b16; }
-#c19049 { fill:#d7f12d; }
+#c19049 { fill:#d9f02d; }
 #c19051 { fill:#c1f449; }
 #c19053 { fill:#e8b455; }
-#c19055 { fill:#e8a740; }
-#c19057 { fill:#e15f3b; }
+#c19055, #c19087 { fill:#e8a740; }
+#c19057 { fill:#e15c3b; }
 #c19059 { fill:#ede12c; }
 #c19061 { fill:#51fd34; }
 #c19065, #c51720 { fill:#ebca4e; }
 #c19067 { fill:#93f841; }
 #c19071 { fill:#88fa4e; }
 #c19073 { fill:#d6114a; }
-#c19075 { fill:#eee745; }
+#c19075 { fill:#ecd444; }
 #c19077 { fill:#92f83b; }
 #c19079 { fill:#97f738; }
 #c19081 { fill:#ecef3d; }
 #c19085, #c39113 { fill:#bef446; }
-#c19087 { fill:#e8ad40; }
 #c19089 { fill:#d70038; }
 #c19091 { fill:#a0f745; }
 #c19093, #c46009 { fill:#e0614e; }
 #c19095 { fill:#bef450; }
 #c19097 { fill:#b6f547; }
 #c19101 { fill:#e8b34f; }
-#c19103 { fill:#db182e; }
+#c19103 { fill:#db172e; }
 #c19105 { fill:#e79e48; }
 #c19107 { fill:#e59252; }
 #c19109 { fill:#abf64d; }
-#c19111 { fill:#dc323f; }
-#c19113 { fill:#99f740; }
+#c19111 { fill:#dc2f3f; }
 #c19115 { fill:#dc101e; }
 #c19117 { fill:#94f847; }
 #c19119 { fill:#93f842; }
-#c19121 { fill:#62fd4b; }
+#c19121 { fill:#7efa49; }
 #c19123 { fill:#d2003e; }
-#c19125 { fill:#db273b; }
+#c19125 { fill:#db263b; }
 #c19127 { fill:#97f61d; }
 #c19129 { fill:#ccf24b; }
 #c19131 { fill:#e69b45; }
@@ -839,26 +837,26 @@
 #c19147 { fill:#65fc43; }
 #c19149 { fill:#e58028; }
 #c19151 { fill:#e79431; }
-#c19153 { fill:#d3f12b; }
-#c19155 { fill:#5bfd39; }
+#c19153 { fill:#d6f12b; }
+#c19155 { fill:#5ffc39; }
 #c19157, #c40017 { fill:#68fd49; }
 #c19159, #c21079 { fill:#eeed51; }
 #c19161 { fill:#eddf42; }
-#c19163 { fill:#c8f340; }
+#c19163 { fill:#ccf240; }
 #c19165 { fill:#4cfe36; }
-#c19167 { fill:#e4702a; }
-#c19169 { fill:#dc232e; }
-#c19171 { fill:#e7951f; }
+#c19167 { fill:#e36929; }
+#c19169 { fill:#dc1b2e; }
+#c19171 { fill:#e78b1f; }
 #c19173, #c27033, #c34025, #c48137, #c48329, #c48419, #c51710 { fill:#39ff39; }
 #c19177 { fill:#e0f04e; }
 #c19179 { fill:#e5ef25; }
-#c19181 { fill:#daf13d; }
+#c19181 { fill:#dff03d; }
 #c19183 { fill:#9cf73c; }
 #c19185 { fill:#e58e4e; }
 #c19187 { fill:#e9ac30; }
 #c19189 { fill:#eee93a; }
 #c19191 { fill:#e05940; }
-#c19193 { fill:#edd91d; }
+#c19193 { fill:#edd61d; }
 #c19197 { fill:#2dfe1f; }
 #c20001 { fill:#83ff83; }
 #c20005 { fill:#ede344; }
